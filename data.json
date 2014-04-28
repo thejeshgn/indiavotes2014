@@ -4,7 +4,7 @@
     {
         "headline":"India Votes 2014",
         "type":"default",
-		"text":"Lokasabha Elections - Worlds biggest election coverage",
+		"text":"Lokasabha Elections 2014 - Coverage of Worlds Biggest Election  <br>By  <a href=\"http://thejeshgn.com\" title=\"Thejesh GN Project\">Thejesh GN</a>",
 		"startDate":"2012,1,26",
         "date": [
             {
@@ -35,8 +35,179 @@
 		    "thumbnail":"http://s1.firstpost.in/wp-content/uploads/2013/11/RamachandraGuha.jpg",
                     "caption":"<a href=\"http://www.firstpost.com/politics/modi-authoritarian-and-a-bully-says-ramachandra-guha-1366215.html\">Modi authoritarian and a bully, says Ramachandra Guha</a>"
                 }
-            }
+            },
+            
+	    {
+                "startDate":"2014,1,27",
+		"endDate":"2014,1,27",
+                "headline":"Frankly Speaking - Rahul Gandi",
+                "text":"For the first time, Congress Vice President and Congress Poll Campaign Chief Rahul Gandhi opens up to an elaborate sit-down interview with TIMES NOW Editor-in-Chief Arnab Goswami. ",
+		"tag":"INC",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=xB_eWW5ttaM",
+                    "credit":"Times Now",
+                    "caption":"Frankly Speaking - Rahul Gandi"
+                }
+            },
+            
+	    {
+                "startDate":"2014,4,28",
+		"endDate":"2014,4,28",
+		"headline": "On Twitter",
+		"tag":"Kashmir",
+                "asset":
+                {
+                    "media":"https://twitter.com/narendramodi/status/460686582542897152",
+                    "credit":"Twitter"
+                }
+            },
 
+	    {
+                "startDate":"2014,4,28",
+		"endDate":"2014,4,28",
+                "headline":"Omar Abdullah: Modi should learn secularism from Kashmiris",
+		"tag":"Kashmir",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=yeJTkct_U6c",
+                    "credit":"Times Now",
+                    "caption":"Omar Abdullah: Modi should learn secularism from Kashmiris"
+                }
+            },
+
+	    {
+                "startDate":"2014,4,27",
+		"endDate":"2014,4,27",
+                "headline":"Twin blasts at Farooq Abdullah's rallies",
+		"text":"After Khanyar, the second blast took place at Magam district of Jammu and Kashmir during Jammu & Kashmir National Conference chief Farooq Abdullah's rallies. Three people have been injured in the stampede after the explosion. ",
+		"tag":"Kashmir",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=BzFQXTONtkE",
+                    "credit":"Headlines Today",
+                    "caption":"Twin blasts at Farooq Abdullah's rallies"
+                }
+            },
+
+	    {
+                "startDate":"2014,3,14",
+		"endDate":"2014,3,14",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/home/specials/lok-sabha-elections-2014/news/Kumar-Vishwas-attacked-in-Amethi/articleshow/32024800.cms?\">Kumar Vishwas attacked in Amethi</a>",
+		"text":"LUCKNOW: AAP leader Kumar Vishwas was attacked in Amethi on Friday evening. The attack took place at Singauli village in Jagdishpur block under Kamrauli police station where he had gone to campaign for Lok Sabha election.Vishwas is contesting against Congress vice president Rahul Gandhi. AAP workers alleged that attackers were Congress workers. They also claimed that over 15 AAP volunteers were injured in the attack. Kumar also sustained minor injuries, they claimed.",
+		"tag":"AAP",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/home/specials/lok-sabha-elections-2014/news/Kumar-Vishwas-attacked-in-Amethi/articleshow/32024800.cms?",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/home/specials/lok-sabha-elections-2014/news/Kumar-Vishwas-attacked-in-Amethi/articleshow/32024800.cms?\">Kumar Vishwas attacked in Amethi</a>"
+                }
+            },
+
+		{
+                "startDate":"2014,3,14",
+		"endDate":"2014,3,14",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/other-states/former-gujarat-dgp-joins-aap/article5785427.ece?homepage=true\">Former Gujarat DGP joins AAP</a>",
+		"text":"RB Sreekumar, who took on Chief Minister Narendra Modi during the 2002 Gujarat riots and thereafter, registered himself with the AAP on Thursday night. Former Director General of Gujarat police RB Sreekumar, who took on Chief Minister Narendra Modi during the 2002 Gujarat riots and thereafter, for the series of alleged fake encounters of Muslims, has joined the Aam Aadmi Party (AAP) claiming to fight corruption in high places.",
+		"tag":"AAP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/news/national/other-states/former-gujarat-dgp-joins-aap/article5785427.ece?homepage=true",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/other-states/former-gujarat-dgp-joins-aap/article5785427.ece?homepage=true\">Former Gujarat DGP joins AAP</a>"
+                }
+            },
+
+		{
+                "startDate":"2014,3,7",
+		"endDate":"2014,3,7",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-rss-to-initiate-legal-action-against-rahul-gandhi-for-accusing-them-of-killing-mahatma-gandhi-1967538\">RSS to initiate legal action against Rahul Gandhi for accusing them of killing Mahatma Gandhi</a>",
+		"text":" Irked by Rahul Gandhi's remark accusing \"RSS people\" of having killed Mahatma Gandhi, the Sangh has decided to initiate legal action against him and lodge a complaint with the Election Commission.",
+		"tag":"RSS,INC",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/03/07/219059-rahul-gandhi.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-rss-to-initiate-legal-action-against-rahul-gandhi-for-accusing-them-of-killing-mahatma-gandhi-1967538\">RSS to initiate legal action against Rahul Gandhi for accusing them of killing Mahatma Gandhi</a>"
+                }
+            },
+
+		{
+                "startDate":"2014,4,17",
+		"endDate":"2014,4,17",
+                "headline":"Finding name is a big issue",
+		"text":"Finding name is a big issue #indiavotes2014 #loksabha2014",
+		"tag":"EC",
+                "asset":
+                {
+                    "media":"http://instagram.com/p/m4yIiSwTRo/",
+                    "credit":"Thejesh GN"
+                }
+            },
+		{
+                "startDate":"2014,4,17",
+		"endDate":"2014,4,17",
+                "headline":"Voting day in Bangalore",
+		"text":"Volunteers helping to find name in Jayanagar #loksabha2014 #indiavotes2014",
+		"tag":"EC",
+                "asset":
+                {
+                    "media":"http://instagram.com/p/m4R0VkQTXp/",
+                    "credit":"Thejesh GN"
+                }
+            },
+		{
+                "startDate":"2014,3,6",
+		"endDate":"2014,3,6",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/narendra-modi-has-weak-credentials-as-pm-candidate-mine-better-nitish-kumar-to-ndtv-492117?curl=1398715616\">Narendra Modi has weak credentials as PM candidate, mine better: Nitish Kumar to NDTV</a>",
+		"text":"Nitish Kumar, the chief minister of Bihar, today told NDTV that he is a far more worthy contender for prime minister than \"others.\"  Without naming his political rival, Narendra Modi - a strategy he has perfected in months of attacks on the BJP's prime ministerial candidate - Mr Kumar demolished the BJP leader's credentials.",
+		"tag":"Third Front",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/Nitish_Kumar_speaks_to_NDTV_360x270.jpg",
+                    "credit":"NDTV India",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/narendra-modi-has-weak-credentials-as-pm-candidate-mine-better-nitish-kumar-to-ndtv-492117?curl=1398715616\">Narendra Modi has weak credentials as PM candidate, mine better: Nitish Kumar to NDTV</a>"
+                }
+            },
+		{
+                "startDate":"2014,2,15",
+		"endDate":"2014,2,15",
+                "headline":"<a href=\"http://www.firstpost.com/politics/live-cabinet-recommends-presidents-rule-in-delhi-1387577.html\">Live: Cabinet recommends President’s rule in Delhi</a>",
+		"text":"The Union Cabinet, which met late this evening at Prime Minister Manmohan Singh's residence, has recommended that President's rule be imposed in Delhi and that the Assembly be kept under suspended animation.",
+		"tag":"AAP",
+                "asset":
+                {
+                    "media":"http://s3.firstpost.in/wp-content/uploads/2014/02/Kejriwal-Feb13-PTI1.jpg",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/live-cabinet-recommends-presidents-rule-in-delhi-1387577.html\">Live: Cabinet recommends President’s rule in Delhi</a>"
+                }
+            },
+            
+	    {
+                "startDate":"2014,2,15",
+		"endDate":"2014,2,15",
+		"headline": "Arvind Kejriwal Resigns",
+		"tag":"Delhi, AAP",
+                "asset":
+                {
+                    "media":"https://twitter.com/ndtv/statuses/434541434562048001",
+                    "credit":"Twitter"
+                }
+            },
+
+		{
+                "startDate":"2014,2,11",
+		"endDate":"2014,2,11",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/india/Congress-expels-six-MPs-for-disrupting-Parliament-over-Telangana/articleshow/30218098.cms\">Congress expels six MPs for disrupting Parliament over Telangana</a>",
+		"text":"NEW DELHI: Cracking the whip, Congress on Tuesday expelled six Lok Sabha MPs from Andhra Pradesh who opposed creation of Telangana and had given a notice of no-confidence motion against the government. The MPs expelled by Congress president Sonia Gandhi are Sabbam Hari, GV Harsha Kumar, V Arun Kumar, L Rajagopal, R Sambasiva Rao and A Sai Pratap.",
+		"tag":"Telangana, INC",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/india/Congress-expels-six-MPs-for-disrupting-Parliament-over-Telangana/articleshow/30218098.cms",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/india/Congress-expels-six-MPs-for-disrupting-Parliament-over-Telangana/articleshow/30218098.cms\">Congress expels six MPs for disrupting Parliament over Telangana</a>"
+                }
+            }
 
         ]
     }

@@ -155,8 +155,7 @@
                     "media":"http://instagram.com/p/m4R0VkQTXp/",
                     "credit":"Thejesh GN"
                 }
-            }
-,
+            },
 		{
                 "startDate":"2014,4,17",
 		"endDate":"2014,4,17",
@@ -223,7 +222,63 @@
                     "credit":"Times of India",
                     "caption":"<a href=\"http://timesofindia.indiatimes.com/india/Congress-expels-six-MPs-for-disrupting-Parliament-over-Telangana/articleshow/30218098.cms\">Congress expels six MPs for disrupting Parliament over Telangana</a>"
                 }
+            },
+
+		{
+                "startDate":"2014,3,06",
+		"endDate":"2014,3,06",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/\">Nine-phase Lok Sabha polls begin on April 7, counting on May 16</a>",
+		"text":"For the first time, the Lok Sabha elections will be held in nine phases — from April 7 to May 12. Announcing the poll schedule on Wednesday, the Election Commisson of India said counting of votes will be done on May 16 and the results will be announced on the same day.",
+		"tag":"EC",
+                "asset":
+                {
+                    "media":"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/\">Nine-phase Lok Sabha polls begin on April 7, counting on May 16</a>"
+                }
+            },
+		{
+                "startDate":"2014,3,06",
+		"endDate":"2014,3,06",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/\">Nine-phase Lok Sabha polls begin on April 7, counting on May 16</a>",
+		"text":"For the first time, the Lok Sabha elections will be held in nine phases — from April 7 to May 12. Announcing the poll schedule on Wednesday, the Election Commisson of India said counting of votes will be done on May 16 and the results will be announced on the same day.",
+		"tag":"EC",
+                "asset":
+                {
+                    "media":"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/\">Nine-phase Lok Sabha polls begin on April 7, counting on May 16</a>"
+                }
             }
+,
+		{
+                "startDate":"2014,3,05",
+		"endDate":"2014,3,05",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/lok-sabha-elections-in-9-phases-to-start-from-april-7/\">Lok Sabha elections in 9 phases to start from April 7</a>",
+		"text":"Lok Sabha elections will be held from April 7 to May 12 spread over nine days in the highest number of polling days so far involving an electorate of 81.4 crore, the Election Commission announced on Wednesday.",
+		"tag":"EC",
+                "asset":
+                {
+                    "media":"http://indianexpress.com/article/india/politics/lok-sabha-elections-in-9-phases-to-start-from-april-7/",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/lok-sabha-elections-in-9-phases-to-start-from-april-7/\">Lok Sabha elections in 9 phases to start from April 7</a>"
+                }
+            }
+,
+		{
+                "startDate":"2014,3,05",
+		"endDate":"2014,3,05",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-state-wise-map-of-election-dates-for-lok-sabha-polls-2014-1966955\">State-wise map of Election dates for Lok Sabha polls 2014</a>",
+		"text":"Finally the Elections Commission has announced the date for the 2014 Lok Sabha elections, which will be held between April 7 and May 12 in nine phases. The counting of votes will be held on May 16. ",
+		"tag":"EC",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/03/05/218626-map.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-state-wise-map-of-election-dates-for-lok-sabha-polls-2014-1966955\">State-wise map of Election dates for Lok Sabha polls 2014</a>"
+                }
+            }
+
 
         ]
     }

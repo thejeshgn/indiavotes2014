@@ -155,7 +155,23 @@
                     "media":"http://instagram.com/p/m4R0VkQTXp/",
                     "credit":"Thejesh GN"
                 }
-            },
+            }
+,
+		{
+                "startDate":"2014,4,17",
+		"endDate":"2014,4,17",
+                "headline":"Voting day in Bangalore",
+		"text":"This is where I voted. Govt Primary School, Kammasandra.",
+		"tag":"EC",
+                "asset":
+                {
+                    "media":"https://maps.google.co.in/maps?q=12.830506,77.691202&num=1&t=m&z=17",
+                    "credit":"Thejesh GN"
+                }
+            }
+
+
+		,
 		{
                 "startDate":"2014,3,6",
 		"endDate":"2014,3,6",

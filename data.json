@@ -1,0 +1,43 @@
+
+{
+    "timeline":
+    {
+        "headline":"India Votes 2014",
+        "type":"default",
+		"text":"Lokasabha Elections - Worlds biggest election coverage",
+		"startDate":"2012,1,26",
+        "date": [
+            {
+                "startDate":"2013,9,13",
+		"endDate":"2013,9,13",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/its-official-modi-is-bjps-choice/article5124375.ece\" title=\"It’s official: Modi is BJP’s choice\">It’s official: Modi is BJP’s choice</a>",
+                "text":"The formal announcement came after the BJP Parliamentary Board, which Mr. Advani skipped, rubber stamped the nomination after the RSS made it loud and clear in recent days that it wants Mr. Modi’s name announced before the commencement of the ‘inauspicious’ fortnight on September 20.",
+		"tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01583/Modi_1583674g.jpg",
+                    "credit":"The Hindu",
+		    "thumbnail":"http://www.thehindu.com/multimedia/dynamic/01583/Modi_1583674g.jpg",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/its-official-modi-is-bjps-choice/article5124375.ece\" title=\"It’s official: Modi is BJP’s choice\">It’s official: Modi is BJP’s choice</a>"
+                }
+            },
+            
+	    {
+                "startDate":"2014,1,30",
+		"endDate":"2014,1,30",
+                "headline":"<a href=\"http://www.firstpost.com/politics/modi-authoritarian-and-a-bully-says-ramachandra-guha-1366215.html\">Modi authoritarian and a bully, says Ramachandra Guha</a>",
+                "text":"The BJP's prime ministerial candidate Narendra Modi is a \"bully\" and an \"absolute authoritarian\", historian Ramchandra Guha said on Wednesday. Guha said the Gujarat chief minister could \"damage\" the Indian democracy, but not \"destroy\" it.",
+		"tag":"BJP",
+                "asset":
+                {
+                    "media":"http://s1.firstpost.in/wp-content/uploads/2013/11/RamachandraGuha.jpg",
+                    "credit":"First Post",
+		    "thumbnail":"http://s1.firstpost.in/wp-content/uploads/2013/11/RamachandraGuha.jpg",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/modi-authoritarian-and-a-bully-says-ramachandra-guha-1366215.html\">Modi authoritarian and a bully, says Ramachandra Guha</a>"
+                }
+            }
+
+
+        ]
+    }
+}

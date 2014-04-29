@@ -9,40 +9,40 @@
         "date": [
             {
                 "startDate":"2013,9,13",
-		"endDate":"2013,9,13",
+		        "endDate":"2013,9,13",
                 "headline":"<a href=\"http://www.thehindu.com/news/national/its-official-modi-is-bjps-choice/article5124375.ece\" title=\"It’s official: Modi is BJP’s choice\">It’s official: Modi is BJP’s choice</a>",
                 "text":"The formal announcement came after the BJP Parliamentary Board, which Mr. Advani skipped, rubber stamped the nomination after the RSS made it loud and clear in recent days that it wants Mr. Modi’s name announced before the commencement of the ‘inauspicious’ fortnight on September 20.",
-		"tag":"BJP",
+		        "tag":"BJP",
                 "asset":
                 {
                     "media":"http://www.thehindu.com/multimedia/dynamic/01583/Modi_1583674g.jpg",
                     "credit":"The Hindu",
-		    "thumbnail":"http://www.thehindu.com/multimedia/dynamic/01583/Modi_1583674g.jpg",
+		            "thumbnail":"http://www.thehindu.com/multimedia/dynamic/01583/Modi_1583674g.jpg",
                     "caption":"<a href=\"http://www.thehindu.com/news/national/its-official-modi-is-bjps-choice/article5124375.ece\" title=\"It’s official: Modi is BJP’s choice\">It’s official: Modi is BJP’s choice</a>"
                 }
             },
             
 	    {
                 "startDate":"2014,1,30",
-		"endDate":"2014,1,30",
+		        "endDate":"2014,1,30",
                 "headline":"<a href=\"http://www.firstpost.com/politics/modi-authoritarian-and-a-bully-says-ramachandra-guha-1366215.html\">Modi authoritarian and a bully, says Ramachandra Guha</a>",
                 "text":"The BJP's prime ministerial candidate Narendra Modi is a \"bully\" and an \"absolute authoritarian\", historian Ramchandra Guha said on Wednesday. Guha said the Gujarat chief minister could \"damage\" the Indian democracy, but not \"destroy\" it.",
-		"tag":"BJP",
+		        "tag":"BJP",
                 "asset":
                 {
                     "media":"http://s1.firstpost.in/wp-content/uploads/2013/11/RamachandraGuha.jpg",
                     "credit":"First Post",
-		    "thumbnail":"http://s1.firstpost.in/wp-content/uploads/2013/11/RamachandraGuha.jpg",
+		            "thumbnail":"http://s1.firstpost.in/wp-content/uploads/2013/11/RamachandraGuha.jpg",
                     "caption":"<a href=\"http://www.firstpost.com/politics/modi-authoritarian-and-a-bully-says-ramachandra-guha-1366215.html\">Modi authoritarian and a bully, says Ramachandra Guha</a>"
                 }
             },
             
 	    {
                 "startDate":"2014,1,27",
-		"endDate":"2014,1,27",
+		        "endDate":"2014,1,27",
                 "headline":"Frankly Speaking - Rahul Gandi",
                 "text":"For the first time, Congress Vice President and Congress Poll Campaign Chief Rahul Gandhi opens up to an elaborate sit-down interview with TIMES NOW Editor-in-Chief Arnab Goswami. ",
-		"tag":"INC",
+		        "tag":"INC",
                 "asset":
                 {
                     "media":"http://www.youtube.com/watch?v=xB_eWW5ttaM",
@@ -53,9 +53,9 @@
             
 	    {
                 "startDate":"2014,4,28",
-		"endDate":"2014,4,28",
-		"headline": "On Twitter",
-		"tag":"Kashmir",
+		        "endDate":"2014,4,28",
+		        "headline": "On Twitter",
+		        "tag":"Kashmir",
                 "asset":
                 {
                     "media":"https://twitter.com/narendramodi/status/460686582542897152",
@@ -65,9 +65,9 @@
 
 	    {
                 "startDate":"2014,4,28",
-		"endDate":"2014,4,28",
+		        "endDate":"2014,4,28",
                 "headline":"Omar Abdullah: Modi should learn secularism from Kashmiris",
-		"tag":"Kashmir",
+		        "tag":"Kashmir",
                 "asset":
                 {
                     "media":"http://www.youtube.com/watch?v=yeJTkct_U6c",
@@ -78,10 +78,10 @@
 
 	    {
                 "startDate":"2014,4,27",
-		"endDate":"2014,4,27",
+		        "endDate":"2014,4,27",
                 "headline":"Twin blasts at Farooq Abdullah's rallies",
-		"text":"After Khanyar, the second blast took place at Magam district of Jammu and Kashmir during Jammu & Kashmir National Conference chief Farooq Abdullah's rallies. Three people have been injured in the stampede after the explosion. ",
-		"tag":"Kashmir",
+		        "text":"After Khanyar, the second blast took place at Magam district of Jammu and Kashmir during Jammu & Kashmir National Conference chief Farooq Abdullah's rallies. Three people have been injured in the stampede after the explosion. ",
+		        "tag":"Kashmir",
                 "asset":
                 {
                     "media":"http://www.youtube.com/watch?v=BzFQXTONtkE",
@@ -92,10 +92,10 @@
 
 	    {
                 "startDate":"2014,3,14",
-		"endDate":"2014,3,14",
+		        "endDate":"2014,3,14",
                 "headline":"<a href=\"http://timesofindia.indiatimes.com/home/specials/lok-sabha-elections-2014/news/Kumar-Vishwas-attacked-in-Amethi/articleshow/32024800.cms?\">Kumar Vishwas attacked in Amethi</a>",
-		"text":"LUCKNOW: AAP leader Kumar Vishwas was attacked in Amethi on Friday evening. The attack took place at Singauli village in Jagdishpur block under Kamrauli police station where he had gone to campaign for Lok Sabha election.Vishwas is contesting against Congress vice president Rahul Gandhi. AAP workers alleged that attackers were Congress workers. They also claimed that over 15 AAP volunteers were injured in the attack. Kumar also sustained minor injuries, they claimed.",
-		"tag":"AAP",
+		        "text":"LUCKNOW: AAP leader Kumar Vishwas was attacked in Amethi on Friday evening. The attack took place at Singauli village in Jagdishpur block under Kamrauli police station where he had gone to campaign for Lok Sabha election.Vishwas is contesting against Congress vice president Rahul Gandhi. AAP workers alleged that attackers were Congress workers. They also claimed that over 15 AAP volunteers were injured in the attack. Kumar also sustained minor injuries, they claimed.",
+		        "tag":"AAP",
                 "asset":
                 {
                     "media":"http://timesofindia.indiatimes.com/home/specials/lok-sabha-elections-2014/news/Kumar-Vishwas-attacked-in-Amethi/articleshow/32024800.cms?",
@@ -106,10 +106,10 @@
 
 		{
                 "startDate":"2014,3,14",
-		"endDate":"2014,3,14",
+		        "endDate":"2014,3,14",
                 "headline":"<a href=\"http://www.thehindu.com/news/national/other-states/former-gujarat-dgp-joins-aap/article5785427.ece?homepage=true\">Former Gujarat DGP joins AAP</a>",
-		"text":"RB Sreekumar, who took on Chief Minister Narendra Modi during the 2002 Gujarat riots and thereafter, registered himself with the AAP on Thursday night. Former Director General of Gujarat police RB Sreekumar, who took on Chief Minister Narendra Modi during the 2002 Gujarat riots and thereafter, for the series of alleged fake encounters of Muslims, has joined the Aam Aadmi Party (AAP) claiming to fight corruption in high places.",
-		"tag":"AAP",
+		        "text":"RB Sreekumar, who took on Chief Minister Narendra Modi during the 2002 Gujarat riots and thereafter, registered himself with the AAP on Thursday night. Former Director General of Gujarat police RB Sreekumar, who took on Chief Minister Narendra Modi during the 2002 Gujarat riots and thereafter, for the series of alleged fake encounters of Muslims, has joined the Aam Aadmi Party (AAP) claiming to fight corruption in high places.",
+		        "tag":"AAP",
                 "asset":
                 {
                     "media":"http://www.thehindu.com/news/national/other-states/former-gujarat-dgp-joins-aap/article5785427.ece?homepage=true",
@@ -120,10 +120,10 @@
 
 		{
                 "startDate":"2014,3,7",
-		"endDate":"2014,3,7",
+		        "endDate":"2014,3,7",
                 "headline":"<a href=\"http://www.dnaindia.com/india/report-rss-to-initiate-legal-action-against-rahul-gandhi-for-accusing-them-of-killing-mahatma-gandhi-1967538\">RSS to initiate legal action against Rahul Gandhi for accusing them of killing Mahatma Gandhi</a>",
-		"text":" Irked by Rahul Gandhi's remark accusing \"RSS people\" of having killed Mahatma Gandhi, the Sangh has decided to initiate legal action against him and lodge a complaint with the Election Commission.",
-		"tag":"RSS,INC",
+		        "text":" Irked by Rahul Gandhi's remark accusing \"RSS people\" of having killed Mahatma Gandhi, the Sangh has decided to initiate legal action against him and lodge a complaint with the Election Commission.",
+		        "tag":"RSS,INC",
                 "asset":
                 {
                     "media":"http://static.dnaindia.com/sites/default/files/2014/03/07/219059-rahul-gandhi.jpg",
@@ -134,10 +134,10 @@
 
 		{
                 "startDate":"2014,4,17",
-		"endDate":"2014,4,17",
+		        "endDate":"2014,4,17",
                 "headline":"Finding name is a big issue",
-		"text":"Finding name is a big issue #indiavotes2014 #loksabha2014",
-		"tag":"EC",
+		        "text":"Finding name is a big issue #indiavotes2014 #loksabha2014",
+		        "tag":"EC",
                 "asset":
                 {
                     "media":"http://instagram.com/p/m4yIiSwTRo/",
@@ -146,10 +146,10 @@
             },
 		{
                 "startDate":"2014,4,17",
-		"endDate":"2014,4,17",
+		        "endDate":"2014,4,17",
                 "headline":"Voting day in Bangalore",
-		"text":"Volunteers helping to find name in Jayanagar #loksabha2014 #indiavotes2014",
-		"tag":"EC",
+		        "text":"Volunteers helping to find name in Jayanagar #loksabha2014 #indiavotes2014",
+		        "tag":"EC",
                 "asset":
                 {
                     "media":"http://instagram.com/p/m4R0VkQTXp/",
@@ -158,10 +158,10 @@
             },
 		{
                 "startDate":"2014,4,17",
-		"endDate":"2014,4,17",
+		        "endDate":"2014,4,17",
                 "headline":"Voting day in Bangalore",
-		"text":"This is where I voted. Govt Primary School, Kammasandra.",
-		"tag":"EC",
+		        "text":"This is where I voted. Govt Primary School, Kammasandra.",
+		        "tag":"EC",
                 "asset":
                 {
                     "media":"https://maps.google.co.in/maps?q=12.830506,77.691202&num=1&t=m&z=17",
@@ -173,10 +173,10 @@
 		,
 		{
                 "startDate":"2014,3,6",
-		"endDate":"2014,3,6",
+		        "endDate":"2014,3,6",
                 "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/narendra-modi-has-weak-credentials-as-pm-candidate-mine-better-nitish-kumar-to-ndtv-492117?curl=1398715616\">Narendra Modi has weak credentials as PM candidate, mine better: Nitish Kumar to NDTV</a>",
-		"text":"Nitish Kumar, the chief minister of Bihar, today told NDTV that he is a far more worthy contender for prime minister than \"others.\"  Without naming his political rival, Narendra Modi - a strategy he has perfected in months of attacks on the BJP's prime ministerial candidate - Mr Kumar demolished the BJP leader's credentials.",
-		"tag":"Third Front",
+		        "text":"Nitish Kumar, the chief minister of Bihar, today told NDTV that he is a far more worthy contender for prime minister than \"others.\"  Without naming his political rival, Narendra Modi - a strategy he has perfected in months of attacks on the BJP's prime ministerial candidate - Mr Kumar demolished the BJP leader's credentials.",
+		        "tag":"Third Front",
                 "asset":
                 {
                     "media":"http://www.ndtv.com/news/images/Nitish_Kumar_speaks_to_NDTV_360x270.jpg",
@@ -186,10 +186,10 @@
             },
 		{
                 "startDate":"2014,2,15",
-		"endDate":"2014,2,15",
+		        "endDate":"2014,2,15",
                 "headline":"<a href=\"http://www.firstpost.com/politics/live-cabinet-recommends-presidents-rule-in-delhi-1387577.html\">Live: Cabinet recommends President’s rule in Delhi</a>",
-		"text":"The Union Cabinet, which met late this evening at Prime Minister Manmohan Singh's residence, has recommended that President's rule be imposed in Delhi and that the Assembly be kept under suspended animation.",
-		"tag":"AAP",
+		        "text":"The Union Cabinet, which met late this evening at Prime Minister Manmohan Singh's residence, has recommended that President's rule be imposed in Delhi and that the Assembly be kept under suspended animation.",
+		        "tag":"AAP",
                 "asset":
                 {
                     "media":"http://s3.firstpost.in/wp-content/uploads/2014/02/Kejriwal-Feb13-PTI1.jpg",
@@ -200,9 +200,9 @@
             
 	    {
                 "startDate":"2014,2,15",
-		"endDate":"2014,2,15",
-		"headline": "Arvind Kejriwal Resigns",
-		"tag":"Delhi, AAP",
+		        "endDate":"2014,2,15",
+		        "headline": "Arvind Kejriwal Resigns",
+		        "tag":"Delhi, AAP",
                 "asset":
                 {
                     "media":"https://twitter.com/ndtv/statuses/434541434562048001",
@@ -212,10 +212,10 @@
 
 		{
                 "startDate":"2014,2,11",
-		"endDate":"2014,2,11",
+		        "endDate":"2014,2,11",
                 "headline":"<a href=\"http://timesofindia.indiatimes.com/india/Congress-expels-six-MPs-for-disrupting-Parliament-over-Telangana/articleshow/30218098.cms\">Congress expels six MPs for disrupting Parliament over Telangana</a>",
-		"text":"NEW DELHI: Cracking the whip, Congress on Tuesday expelled six Lok Sabha MPs from Andhra Pradesh who opposed creation of Telangana and had given a notice of no-confidence motion against the government. The MPs expelled by Congress president Sonia Gandhi are Sabbam Hari, GV Harsha Kumar, V Arun Kumar, L Rajagopal, R Sambasiva Rao and A Sai Pratap.",
-		"tag":"Telangana, INC",
+		        "text":"NEW DELHI: Cracking the whip, Congress on Tuesday expelled six Lok Sabha MPs from Andhra Pradesh who opposed creation of Telangana and had given a notice of no-confidence motion against the government. The MPs expelled by Congress president Sonia Gandhi are Sabbam Hari, GV Harsha Kumar, V Arun Kumar, L Rajagopal, R Sambasiva Rao and A Sai Pratap.",
+		        "tag":"Telangana, INC",
                 "asset":
                 {
                     "media":"http://timesofindia.indiatimes.com/india/Congress-expels-six-MPs-for-disrupting-Parliament-over-Telangana/articleshow/30218098.cms",
@@ -226,10 +226,10 @@
 
 		{
                 "startDate":"2014,3,06",
-		"endDate":"2014,3,06",
+		        "endDate":"2014,3,06",
                 "headline":"<a href=\"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/\">Nine-phase Lok Sabha polls begin on April 7, counting on May 16</a>",
-		"text":"For the first time, the Lok Sabha elections will be held in nine phases — from April 7 to May 12. Announcing the poll schedule on Wednesday, the Election Commisson of India said counting of votes will be done on May 16 and the results will be announced on the same day.",
-		"tag":"EC",
+		        "text":"For the first time, the Lok Sabha elections will be held in nine phases — from April 7 to May 12. Announcing the poll schedule on Wednesday, the Election Commisson of India said counting of votes will be done on May 16 and the results will be announced on the same day.",
+		        "tag":"EC",
                 "asset":
                 {
                     "media":"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/",
@@ -239,43 +239,214 @@
             },
 		{
                 "startDate":"2014,3,06",
-		"endDate":"2014,3,06",
+		        "endDate":"2014,3,06",
                 "headline":"<a href=\"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/\">Nine-phase Lok Sabha polls begin on April 7, counting on May 16</a>",
-		"text":"For the first time, the Lok Sabha elections will be held in nine phases — from April 7 to May 12. Announcing the poll schedule on Wednesday, the Election Commisson of India said counting of votes will be done on May 16 and the results will be announced on the same day.",
-		"tag":"EC",
+		        "text":"For the first time, the Lok Sabha elections will be held in nine phases — from April 7 to May 12. Announcing the poll schedule on Wednesday, the Election Commisson of India said counting of votes will be done on May 16 and the results will be announced on the same day.",
+		        "tag":"EC",
                 "asset":
                 {
                     "media":"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/",
                     "credit":"Indian Express",
                     "caption":"<a href=\"http://indianexpress.com/article/india/politics/nine-phase-lok-sabha-polls-begin-on-april-7-counting-on-may-16/\">Nine-phase Lok Sabha polls begin on April 7, counting on May 16</a>"
                 }
-            }
-,
+            },
 		{
                 "startDate":"2014,3,05",
-		"endDate":"2014,3,05",
+		        "endDate":"2014,3,05",
                 "headline":"<a href=\"http://indianexpress.com/article/india/politics/lok-sabha-elections-in-9-phases-to-start-from-april-7/\">Lok Sabha elections in 9 phases to start from April 7</a>",
-		"text":"Lok Sabha elections will be held from April 7 to May 12 spread over nine days in the highest number of polling days so far involving an electorate of 81.4 crore, the Election Commission announced on Wednesday.",
-		"tag":"EC",
+		        "text":"Lok Sabha elections will be held from April 7 to May 12 spread over nine days in the highest number of polling days so far involving an electorate of 81.4 crore, the Election Commission announced on Wednesday.",
+		        "tag":"EC",
                 "asset":
                 {
                     "media":"http://indianexpress.com/article/india/politics/lok-sabha-elections-in-9-phases-to-start-from-april-7/",
                     "credit":"Indian Express",
                     "caption":"<a href=\"http://indianexpress.com/article/india/politics/lok-sabha-elections-in-9-phases-to-start-from-april-7/\">Lok Sabha elections in 9 phases to start from April 7</a>"
                 }
-            }
-,
+            },
 		{
                 "startDate":"2014,3,05",
-		"endDate":"2014,3,05",
+		        "endDate":"2014,3,05",
                 "headline":"<a href=\"http://www.dnaindia.com/india/report-state-wise-map-of-election-dates-for-lok-sabha-polls-2014-1966955\">State-wise map of Election dates for Lok Sabha polls 2014</a>",
-		"text":"Finally the Elections Commission has announced the date for the 2014 Lok Sabha elections, which will be held between April 7 and May 12 in nine phases. The counting of votes will be held on May 16. ",
-		"tag":"EC",
+        		"text":"Finally the Elections Commission has announced the date for the 2014 Lok Sabha elections, which will be held between April 7 and May 12 in nine phases. The counting of votes will be held on May 16. ",
+		        "tag":"EC",
                 "asset":
                 {
                     "media":"http://static.dnaindia.com/sites/default/files/2014/03/05/218626-map.jpg",
                     "credit":"DNA India",
                     "caption":"<a href=\"http://www.dnaindia.com/india/report-state-wise-map-of-election-dates-for-lok-sabha-polls-2014-1966955\">State-wise map of Election dates for Lok Sabha polls 2014</a>"
+                }
+            },
+		{
+                "startDate":"2014,4,28",
+		        "endDate":"2014,4,28",
+                "headline":"<a href=\"http://www.firstpost.com/politics/bjps-anti-muslim-ambedkar-pitch-is-a-big-fat-lie-1499723.html\">BJP’s ‘anti-Muslim Ambedkar’ pitch is a big, fat lie</a>",
+        		"text":"In the middle of the general elections, the Sangh Parivar has cleverly tried to spark a debate by suggesting that Dalit icon and author of India’s constitution, Dr. BR Ambedkar did not trust the Muslims. <br>Suddenly there were statements and TV channel discussions on how Ambedkar viewed the Muslims of India negatively. A nameless Twitter account holder, probably propped by the BJP, sent this writer a link to Ambedkar’s bunch of essays titled, Pakistan or The Partition of India, as proof that he did not view Indian Muslims positively. This work was sent to me because I had suggested that there was no evidence in any scholarly work that Ambedkar disliked the Muslims.",
+		        "tag":"Dalit, RSS",
+                "asset":
+                {
+                    "media":"http://s1.firstpost.in/wp-content/uploads/2014/04/Ambedkar-Getty.jpg",
+                    "credit":"First Post",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/bjps-anti-muslim-ambedkar-pitch-is-a-big-fat-lie-1499723.html\">BJP’s ‘anti-Muslim Ambedkar’ pitch is a big, fat lie</a>"
+                }
+            },
+
+		{
+                "startDate":"2014,2,26",
+		        "endDate":"2014,2,26",
+                "headline":"<a href=\"http://www.rediff.com/news/report/i-am-not-modis-doctor-i-cant-examine-him-khurshid/20140226.htm\">I am not Modi's doctor, I can't examine him: Khurshid</a>",
+        		"text":"Minister Salman Khurshid, who stoked a controversy by calling Narendra Modi \"impotent\", on Wednesday insisted that he did nothing wrong as there was no other appropriate word to describe him in the context of the 2002 Gujarat riots.",
+		        "tag":"INC, BJP",
+                "asset":
+                {
+                    "media":"http://im.rediff.com/news/2014/feb/26napunsak.jpg",
+                    "credit":"Rediff",
+                    "caption":"<a href=\"http://www.rediff.com/news/report/i-am-not-modis-doctor-i-cant-examine-him-khurshid/20140226.htm\">I am not Modi's doctor, I can't examine him: Khurshid</a>"
+                }
+            },
+
+		{
+                "startDate":"2014,2,21",
+		        "endDate":"2014,2,21",
+                "headline":"<a href=\"http://ibnlive.in.com/news/mahatmas-grandson-rajmohan-gandhi-joins-aap-may-contest-from-delhi/453374-37-64.html\">Mahatma's grandson Rajmohan Gandhi joins AAP, may contest from Delhi</a>",
+        		"text":"New Delhi: The Aam Aadmi Party (AAP) has got a shot in the arm. Eminent thinker and writer Dr Rajmohan Gandhi has officially joined the AAP on Friday. He has been a supporter of the AAP for a few months. Rajmohan Gandhi is likely to get an AAP ticket in the Lok Sabha polls. He is likely to contest from one of the seven seats in Delhi.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://ibnlive.in.com/news/mahatmas-grandson-rajmohan-gandhi-joins-aap-may-contest-from-delhi/453374-37-64.html",
+                    "credit":"IBN Live",
+                    "caption":"<a href=\"http://ibnlive.in.com/news/mahatmas-grandson-rajmohan-gandhi-joins-aap-may-contest-from-delhi/453374-37-64.html\">Mahatma's grandson Rajmohan Gandhi joins AAP, may contest from Delhi</a>"
+                }
+            },
+
+		{
+                "startDate":"2014,2,5",
+		        "endDate":"2014,2,5",
+                "headline":"<a href=\"http://www.hindustantimes.com/india-news/allaboutnarendramodi/cong-didn-t-let-pranab-mukherjee-become-pm-says-modi/article1-1180684.aspx\">Modi blames Congress for 'depriving' Pranab of prime minister's post</a>",
+        		"text":"Bharatiya Janata Party's (BJP's) prime minister nominee Narendra Modi on Wednesday once again accused the Congress of practising dynasty politics, blaming it for \"depriving\" Pranab Mukherjee of the PM's post at least twice.<br>Mukherjee, now the President of India, was the senior-most Congress leader in the Union cabinet after Prime Minister Indira Gandhi's assassination in 1984, Modi said, addressing a rally in Kolkata.",
+		        "tag":"BJP, INC",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/Images/popup/2014/2/Modi-Kolkata-Rally.jpg",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/india-news/allaboutnarendramodi/cong-didn-t-let-pranab-mukherjee-become-pm-says-modi/article1-1180684.aspx\">Modi blames Congress for 'depriving' Pranab of prime minister's post</a>"
+                }
+            },
+
+		{
+                "startDate":"2014,2,3",
+		        "endDate":"2014,2,3",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/modi-says-congress-sowing-seeds-of-poison/article5645499.ece?homepage=true\">Modi says Congress sowing 'seeds of poison'</a>",
+        		"text":"Hitting back at Congress president Sonia Gandhi for her “zeher ki kheti” remark, the Bharatiya Janata Party’s prime ministerial candidate Narendra Modi on Sunday said it was the Congress, not the BJP, which was “sowing seeds of poison” with its divisive politics.",
+		        "tag":"BJP, INC",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01741/Modi_1741602g.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/modi-says-congress-sowing-seeds-of-poison/article5645499.ece?homepage=true\">Modi says Congress sowing 'seeds of poison'</a>"
+                }
+            },
+		{
+                "startDate":"2014,2,2",
+		        "endDate":"2014,2,2",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/aap-to-come-up-with-its-corrupt-list-for-states/article5645117.ece\">AAP to come up with its corrupt list for States</a>",
+        		"text":"After its ‘corrupt list’ targeting national politicians, Aam Aadmi Party says it will release a list of leaders at the State-level with corrupt, criminal or dynastic background and field candidates against them.<br>“We will release the list of leaders at the state level. There are many leaders in different states whose names have not been announced by the party, but are symbols of corruption, criminalisation of politics and dynastic politics.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01741/IN02_AAP_KEJRIWAL__1741483f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/aap-to-come-up-with-its-corrupt-list-for-states/article5645117.ece\">AAP to come up with its corrupt list for States</a>"
+                }
+            },
+		{
+                "startDate":"2014,1,30",
+		        "endDate":"2014,1,30",
+                "headline":"<a href=\"http://www.firstpost.com/politics/chidamabaram-questions-modis-awareness-of-economic-issues-1366819.html\">Chidambaram questions Modi’s awareness of economic issues</a>",
+        		"text":"Hitting back at BJP leader Arun Jaitley, Finance Minister P Chidambaram said he has \"carefully avoided\" questions that he had raised about Narendra Modi and asked why the Gujarat Chief Minister spoke nothing about various economic issues.",
+		        "tag":"INC, BJP",
+                "asset":
+                {
+                    "media":"http://s3.firstpost.in/wp-content/uploads/2014/01/PChidambaram_PTI_12Dec1.jpg",
+                    "credit":"First Post",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/chidamabaram-questions-modis-awareness-of-economic-issues-1366819.html\">Chidambaram questions Modi’s awareness of economic issues</a>"
+                }
+            },
+		{
+                "startDate":"2014,1,31",
+		        "endDate":"2014,1,31",
+                "headline":"<a href=\"http://www.news18.com/news/up-better-placed-than-gujarat-in-terms-of-development-akhilesh-yadav-346979.html\">UP better than Gujarat in terms of development: Akhilesh Yadav</a>",
+        		"text":"Uttar Pradesh Chief Minister Akhilesh on Thursday said that in terms of development, his state was in a better position than the Narendra Modi led Gujarat.<br>Addressing Yuva Shakti Sammelan Akhilesh said that Modi claimed development in Gujarat, but UP was placed in a better position than his state.  He claimed that large number of welfare schemes being run in UP was not being done in any other state including Gujarat.",
+		        "tag":"SP, BJP",
+                "asset":
+                {
+                    "media":"http://static.news18.com/pix/2014/01/akhilesh-yadav6303.jpg",
+                    "credit":"News18",
+                    "caption":"<a href=\"http://www.news18.com/news/up-better-placed-than-gujarat-in-terms-of-development-akhilesh-yadav-346979.html\">UP better than Gujarat in terms of development: Akhilesh Yadav</a>"
+                }
+            },
+		{
+                "startDate":"2014,1,31",
+		        "endDate":"2014,1,31",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/bjp-men-partied-at-zoo-the-night-before-21-cheetals-were-found-dead/\">BJP men ‘partied’ at zoo the night before 21 cheetals were found dead</a>",
+        		"text":"A PARTY allegedly organised by a group of local BJP leaders at Bilaspur zoo on the night of January 14 could have been the reason for the death of 21 female cheetals or spotted deer in their zoo enclosure, locals have alleged.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://images.indianexpress.com/2014/01/zm.jpg",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/bjp-men-partied-at-zoo-the-night-before-21-cheetals-were-found-dead/\">BJP men ‘partied’ at zoo the night before 21 cheetals were found dead</a>"
+                }
+            },
+		{
+                "startDate":"2014,1,30",
+		        "endDate":"2014,1,30",
+                "headline":"<a href=\"http://www.firstpost.com/politics/gujarat-ls-polls-aap-set-to-gain-in-modi-heartland-1366775.html\">Gujarat LS polls: AAP set to gain in Modi heartland</a>",
+        		"text":"As the campaign for the 2014 Lok Sabha polls gathers momentum, the Aam Aadmi Party is dreaming big in Gujarat, the home state of BJP's prime ministerial candidate Narendra Modi. The one year old political party, which has barged onto the national political scene with a unthinkable result in the Delhi assembly election, is campaigning hard in Gujarat on their core issues like corruption and development.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://s3.firstpost.in/wp-content/uploads/2014/01/arvind-kejriwal23.jpg",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/gujarat-ls-polls-aap-set-to-gain-in-modi-heartland-1366775.html\">Gujarat LS polls: AAP set to gain in Modi heartland</a>"
+                }
+            },
+		{
+                "startDate":"2014,1,29",
+		        "endDate":"2014,1,29",
+                "headline":"<a href=\"http://articles.economictimes.indiatimes.com/2014-01-29/news/46782425_1_rahul-gandhi-aap-general-elections\">MJ Akbar: AAP was a bubble waiting to burst; Rahul Gandhi too late for Congress</a>",
+        		"text":"In an interview with ET Now, MJ Akbar, Editorial Director of The Sunday Guardian talks about Rahul Gandhi's first TV interview, the emergence of AAP and the prospects of a Narendra Modi-led NDA win in 2014 elections.",
+		        "tag":"AAP, INC, BJP",
+                "asset":
+                {
+                    "media":"http://economictimes.indiatimes.com/photo/29543000.cms",
+                    "credit":"Economic Times",
+                    "caption":"<a href=\"http://articles.economictimes.indiatimes.com/2014-01-29/news/46782425_1_rahul-gandhi-aap-general-elections\">MJ Akbar: AAP was a bubble waiting to burst; Rahul Gandhi too late for Congress</a>"
+                }
+            },
+		{
+                "startDate":"2014,1,30",
+		        "endDate":"2014,1,30",
+                "headline":"<a href=\"http://www.firstpost.com/politics/delhi-sikhs-demand-congress-reveal-names-of-1984-riots-conspirators-1366541.html\">Delhi: Sikhs demand Congress reveal names of 1984 riots conspirators</a>",
+        		"text":"New Delhi: Around 500 members of Sikh groups protested outside the Congress office here on Thursday demanding that the names of the party leaders involved in the 1984 anti-Sikh riots be revealed. The protest comes after Congress vice president Rahul Gandhi's admission during a television interview Monday that \"some Congress men were probably involved\" in the anti-Sikh riots that followed the assassination of then prime minister Indira Gandhi by her Sikh bodyguards.",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"http://s2.firstpost.in/wp-content/uploads/2014/01/rahul-gandhiAFP3.gif",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/delhi-sikhs-demand-congress-reveal-names-of-1984-riots-conspirators-1366541.html\">Delhi: Sikhs demand Congress reveal names of 1984 riots conspirators</a>"
+                }
+            },
+		{
+                "startDate":"2014,1,30",
+		        "endDate":"2014,1,30",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/rajiv-didnt-take-calls-from-prez-after-84-riots-broke-out/\">‘Rajiv Gandhi didn’t take calls from President after 1984 riots broke out’</a>",
+        		"text":"Contradicting Rahul Gandhi’s assertion that the Congress government did everything it could to stop the anti-Sikh riots in Delhi in 1984, the then President Giani Zail Singh’s press secretary Wednesday alleged that the riots were “orchestrated and sponsored” and claimed that the then PM Rajiv Gandhi did not even take calls from the President when he tried to get in touch with him to discuss the situation.",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"http://images.indianexpress.com/2013/01/1984-riots.jpg",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/rajiv-didnt-take-calls-from-prez-after-84-riots-broke-out/\">‘Rajiv Gandhi didn’t take calls from President after 1984 riots broke out’</a>"
                 }
             }
 

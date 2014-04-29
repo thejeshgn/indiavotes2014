@@ -58,7 +58,7 @@
 		        "tag":"Kashmir",
                 "asset":
                 {
-                    "media":"https://twitter.com/narendramodi/status/460686582542897152",
+                    "media":"http://twitter.com/narendramodi/status/460686582542897152",
                     "credit":"Twitter"
                 }
             },
@@ -418,7 +418,7 @@
 		        "tag":"AAP, INC, BJP",
                 "asset":
                 {
-                    "media":"http://economictimes.indiatimes.com/photo/29543000.cms",
+                    "media":"http://articles.economictimes.indiatimes.com/2014-01-29/news/46782425_1_rahul-gandhi-aap-general-elections",
                     "credit":"Economic Times",
                     "caption":"<a href=\"http://articles.economictimes.indiatimes.com/2014-01-29/news/46782425_1_rahul-gandhi-aap-general-elections\">MJ Akbar: AAP was a bubble waiting to burst; Rahul Gandhi too late for Congress</a>"
                 }
@@ -448,8 +448,902 @@
                     "credit":"Indian Express",
                     "caption":"<a href=\"http://indianexpress.com/article/india/politics/rajiv-didnt-take-calls-from-prez-after-84-riots-broke-out/\">‘Rajiv Gandhi didn’t take calls from President after 1984 riots broke out’</a>"
                 }
+            },
+		{
+                "startDate":"2014,1,30",
+		        "endDate":"2014,1,30",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-jairam-ramesh-and-priyanka-prompted-rahul-gandhi-from-behind-the-camera-during-the-recording-of-interview-1958187\">Jairam Ramesh and Priyanka prompted Rahul Gandhi from behind the camera during the recording of interview</a>",
+        		"text":"The knives are out in the Congress after Rahul Gandhi’s poor show in his first full-length TV interview, which not only disappointed the party rank and file but also gave a handle to detractors to deride the Gandhi family. The debacle of an interview is now being blamed on inappropriate briefing given to the Gandhi scion on crucial issues.",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/01/30/rahulgandhi.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-jairam-ramesh-and-priyanka-prompted-rahul-gandhi-from-behind-the-camera-during-the-recording-of-interview-1958187\">Jairam Ramesh and Priyanka prompted Rahul Gandhi from behind the camera during the recording of interview</a>"
+                }
+            },
+		{
+                "startDate":"2014,3,7",
+		        "endDate":"2014,3,7",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-arvind-kejriwal-disputes-narendra-modi-s-development-claims-after-being-snubbed-wants-to-meet-him-1967548\">Arvind Kejriwal disputes Narendra Modi's development claims after being snubbed, wants to meet him</a>",
+        		"text":"AAP leader Arvind Kejriwal was Friday stopped while going to meet Gujarat Chief Minister Narendra Modi, shortly after he alleged widespread corruption and unemployment in the state. Kejriwal was driving to the BJP prime ministerial candidate's residence here when police halted him and the rest of his convey and wanted to know if he had an appointment with Modi.",
+		        "tag":"AAP, BJP",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/03/07/219068-arvind-bank.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-arvind-kejriwal-disputes-narendra-modi-s-development-claims-after-being-snubbed-wants-to-meet-him-1967548\">Arvind Kejriwal disputes Narendra Modi's development claims after being snubbed, wants to meet him</a>"
+                }
+            },
+		{
+                "startDate":"2014,3,6",
+		        "endDate":"2014,3,6",
+                "headline":"<a href=\"http://www.dnaindia.com/analysis/standpoint-why-arvind-kejriwal-may-be-ready-to-use-violence-as-a-political-weapon-1967276\">Why Arvind Kejriwal may be ready to use violence as a political weapon</a>",
+        		"text":"With the decimation of the Congress in the ensuing elections staring them in the face, the establishment in Delhi is desperate for survival. Arvind Kejriwal and the Aam Aadmi Party is their last resort to prevent a Narendra Modi-led government from coming into power.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/03/06/218883-kejriwal08-400.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/analysis/standpoint-why-arvind-kejriwal-may-be-ready-to-use-violence-as-a-political-weapon-1967276\">Why Arvind Kejriwal may be ready to use violence as a political weapon</a>"
+                }
+            },
+		{
+                "startDate":"2014,3,6",
+		        "endDate":"2014,3,6",
+                "headline":"<a href=\"http://www.firstpost.com/politics/aap-bjp-clashes-14-arrested-fir-against-ashutosh-shazia-2-1421689.html\">AAP-BJP clashes: 14 arrested, FIR against Ashutosh, Shazia</a>",
+        		"text":"New Delhi: Fourteen AAP members were arrested after Delhi Police registered an FIR in connection with the clashes outside the BJP national headquarters in New Delhi between supporters of the two parties that left 28 people injured.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://s1.firstpost.in/wp-content/uploads/2014/03/AAP-BJP-clash-2pti.jpg",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/aap-bjp-clashes-14-arrested-fir-against-ashutosh-shazia-2-1421689.html\">AAP-BJP clashes: 14 arrested, FIR against Ashutosh, Shazia</a>"
+                }
+            },
+		{
+                "startDate":"2014,4,23",
+		        "endDate":"2014,4,23",
+                "headline":"<a href=\"http://www.firstpost.com/politics/muslims-too-secular-they-should-be-communal-aaps-shazia-ilmi-1491969.html?utm_source=fpstory_alsosee\">Muslims too secular, they should be communal: AAP’s Shazia Ilmi</a>",
+        		"text":" \"Muslims are not communal. They have become too secular. This time they should be communal. They should think for themselves. Muslims have become political slaves of the Congress, BJP and SP,\" she was heard as saying.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://s3.firstpost.in/wp-content/uploads/2014/04/Shazia-ilmi_Firstpost.jpg",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/muslims-too-secular-they-should-be-communal-aaps-shazia-ilmi-1491969.html?utm_source=fpstory_alsosee\">Muslims too secular, they should be communal: AAP’s Shazia Ilmi</a>"
+                }
+            },
+		{
+                "startDate":"2014,4,22",
+		        "endDate":"2014,4,22",
+                "headline":"<a href=\"https://www.youtube.com/watch?v=RVVpkp0I7xE\">It's time to be communal, says Shazia Ilmi</a>",
+        		"text":"",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=RVVpkp0I7xE",
+                    "credit":"Expose AAP",
+                    "caption":"<a href=\"https://www.youtube.com/watch?v=RVVpkp0I7xE\">It's time to be communal, says Shazia Ilmi</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,6",
+		        "endDate":"2014,3,6",
+		        "headline": "On Twitter",
+		        "tag":"AAP, BJP",
+                "asset":
+                {
+                    "media":"https://twitter.com/msisodia/statuses/441592232773025792",
+                    "credit":"Twitter"
+                }
+            },
+		    {
+                "startDate":"2014,3,6",
+		        "endDate":"2014,3,6",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/while-at-a-police-station-aap-s-ashutosh-wrote-this-blog-492381?curl=1398764085\">While at a police station, AAP's Ashutosh wrote this blog</a>",
+        		"text":"These are the classic symptoms of a fascist leader. Arvind Kejriwal was on a study tour of Gujarat to examine the claims of development and Narendra Modi knows if he allows that, his lies will be exposed. ",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/topstory_thumbnail/Ashutosh_questioned_PTI_240x180.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/while-at-a-police-station-aap-s-ashutosh-wrote-this-blog-492381?curl=1398764085\">While at a police station, AAP's Ashutosh wrote this blog</a>"
+                }
+            },
+		    {
+                "startDate":"2014,4,21",
+		        "endDate":"2014,4,21",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/india/Evict-Muslims-from-Hindu-areas-Pravin-Togadia/articleshow/34017292.cms\">Evict Muslims from Hindu areas: Pravin Togadia</a>",
+        		"text":"Vishwa Hindu Parishad's (VHP) president Pravin Togadia sent temperatures soaring in Bhavnagar with a hate speech that targeted Muslims for buying properties in Hindu areas.",
+		        "tag":"VHP",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=AsKjX0Kq2Vw",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/india/Evict-Muslims-from-Hindu-areas-Pravin-Togadia/articleshow/34017292.cms\">Evict Muslims from Hindu areas: Pravin Togadia</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,6",
+		        "endDate":"2014,3,6",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-footage-tells-a-different-story-but-aap-politics-based-on-lies-arun-jaitley-1967286\">Footage tells a different story but AAP politics based on lies: Arun Jaitley</a>",
+        		"text":"Reacting to the case filed against Aam Aadmi Party (AAP) members, Bharatiya Janata Party (BJP) leader Arun Jailtey on Thursday said that the footage that captured their pitched battles with BJP activists might be saying a different story but false propaganda and lies had become an integral part of the AAP politics.",
+		        "tag":"AAP, BJP",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/03/06/218890-arunjaitleycu.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-footage-tells-a-different-story-but-aap-politics-based-on-lies-arun-jaitley-1967286\">Footage tells a different story but AAP politics based on lies: Arun Jaitley</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,22",
+		        "endDate":"2014,2,22",
+                "headline":"<a href=\"http://www.mumbaimirror.com/mumbai/others/AAP-took-permission-for-Shiv-Jayanti-organised-election-rally-instead/articleshow/30806962.cms\">AAP took permission for Shiv Jayanti, organised election rally instead</a>",
+        		"text":"The Aam Aadmi Party, which spares no time in flaying anyone with even a whiff of corruption or irregularity around them, itself broke a major BMC rule on Wednesday.  The party had taken permission from the civic body to hold a celebration of Shiv Jayanti at a playground in Andheri, but organised an election rally at the venue instead. For this, the BMC on Thursday issued them a notice and forfeited their Rs 2,200 deposit. According to the BMC rules, playgrounds cannot be use for political rallies. ",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://www.mumbaimirror.com/mumbai/others/AAP-took-permission-for-Shiv-Jayanti-organised-election-rally-instead/articleshow/30806962.cms",
+                    "credit":"Mumbai Mirror",
+                    "caption":"<a href=\"http://www.mumbaimirror.com/mumbai/others/AAP-took-permission-for-Shiv-Jayanti-organised-election-rally-instead/articleshow/30806962.cms\">AAP took permission for Shiv Jayanti, organised election rally instead</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,22",
+		        "endDate":"2014,2,22",
+                "headline":"<a href=\"http://www.firstpost.com/politics/india-will-have-to-accommodate-hindus-from-bangladesh-modi-1403963.html\">India will have to accommodate Hindus from Bangladesh: Modi</a>",
+        		"text":"Silchar (Assam): BJP's Prime Ministerial candidate Narendra Modi today said Hindu migrants from Bangladesh must be accommodated in the country and detention camps would be done away with once his party comes to power. \"As soon as we come to power at the Centre, detention camps housing Hindu migrants from Bangladesh will be done away with,\" Modi told a public rally at Ramnagar here.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://s3.firstpost.in/wp-content/uploads/2014/02/Modi-PTI.jpg",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/india-will-have-to-accommodate-hindus-from-bangladesh-modi-1403963.html\">India will have to accommodate Hindus from Bangladesh: Modi</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,11",
+		        "endDate":"2014,2,11",
+                "headline":"<a href=\"http://www.hindustantimes.com/india-news/arvindkejriwalacommonmaninpolitics/kejriwal-trains-his-guns-on-mukesh-ambani-s-ril-says-will-file-fir-against-company/article1-1182736.aspx\">Now, Delhi CM Kejriwal goes after Mukesh Ambani, Moily over gas; orders probe</a>",
+        		"text":"Delhi chief minister Arvind Kejriwal on Tuesday directed the anti-corruption branch (ACB) of his government to register an FIR against Reliance Industries Ltd (RIL) chairman Mukesh Ambani, petroleum minister Veerappa Moily, former petroleum minister Murli Deora and former director general of hydrocarbons VK Sibal for increasing the price of natural gas produced in India. The increase will cost the country Rs. 54,000 crore per year.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/images/2013/12/943b94b7-52fe-4279-b279-43e17d5363c4wallpaper1.jpg",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/india-news/arvindkejriwalacommonmaninpolitics/kejriwal-trains-his-guns-on-mukesh-ambani-s-ril-says-will-file-fir-against-company/article1-1182736.aspx\">Now, Delhi CM Kejriwal goes after Mukesh Ambani, Moily over gas; orders probe</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,12",
+		        "endDate":"2014,2,12",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/city/delhi/AAP-govt-rewards-protesters-50-subsidy-for-those-who-supported-Kejriwals-protest-against-power-bills/articleshow/30279110.cms\">AAP govt rewards protesters: 50% subsidy for those who supported Kejriwal's protest against power bills</a>",
+        		"text":"NEW DELHI: Rewarding those who had supported them and refused to pay their power bills during AAP's agitation, the Delhi government on Wednesday decided to give them a 50 per cent relief on their pending bills and also waived the penalty. ",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/city/delhi/AAP-govt-rewards-protesters-50-subsidy-for-those-who-supported-Kejriwals-protest-against-power-bills/articleshow/30279110.cms",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/city/delhi/AAP-govt-rewards-protesters-50-subsidy-for-those-who-supported-Kejriwals-protest-against-power-bills/articleshow/30279110.cms\">AAP govt rewards protesters: 50% subsidy for those who supported Kejriwal's protest against power bills</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,11",
+		        "endDate":"2014,2,11",
+                "headline":"<a href=\"http://www.hindustantimes.com/india-news/allaboutnarendramodi/modi-to-meet-us-envoy-nancy-powell-in-gandhinagar-to-talk-on-bilateral-ties-not-his-visa/article1-1182720.aspx\">US visa not on agenda when Modi meets Powell in Gujarat</a>",
+        		"text":"The recently confirmed meeting between BJP's prime ministerial candidate Narendra Modi and US ambassador to India Nancy Powell will take place in Gandhinagar with the focus on how to take the bilateral relations forward without any conversation on US visa for Gujarat chief minister.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/images/2014/2/e5fc7e86-7299-4d89-b472-126099d19ae7wallpaper1.jpg",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/india-news/allaboutnarendramodi/modi-to-meet-us-envoy-nancy-powell-in-gandhinagar-to-talk-on-bilateral-ties-not-his-visa/article1-1182720.aspx\">US visa not on agenda when Modi meets Powell in Gujarat</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,4",
+		        "endDate":"2014,2,4",
+                "headline":"<a href=\"http://articles.economictimes.indiatimes.com/2014-02-04/news/46964131_1_unauthorised-colonies-provisional-regularisation-certificates-unauthorized-colonies\">AAP government seeks probe against Sheila Dikshit over unauthorized colonies</a>",
+        		"text":"NEW DELHI: Opening yet another front against the Congress, the Kejriwal government has urged President Pranab Mukherjee to act against former Delhi chief minister Sheila Dikshit in fake provisional certificates for unauthorised colony scam.",
+		        "tag":"AAP, INC",
+                "asset":
+                {
+                    "media":"http://economictimes.indiatimes.com/photo/29822412.cms",
+                    "credit":"Economic Times",
+                    "caption":"<a href=\"http://articles.economictimes.indiatimes.com/2014-02-04/news/46964131_1_unauthorised-colonies-provisional-regularisation-certificates-unauthorized-colonies\">AAP government seeks probe against Sheila Dikshit over unauthorized colonies</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,3",
+		        "endDate":"2014,2,3",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/karnataka/chaiwala-my-pm-gains-momentum/article5645995.ece?homepage=true\">‘Chaiwala my PM’ gains momentum</a>",
+        		"text":"Chaiwala my PM… has become the latest campaign theme of the Bharatiya Janata Party in the State for the Lok Sabha elections as the party is keen on politically cashing in on the “tea vendor” jibe at its prime ministerial candidate Narendra Modi by Congress leader Mani Shankar Aiyar.",
+		        "tag":"BJP, INC",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01741/03BG_BJPTEA_1741740f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/karnataka/chaiwala-my-pm-gains-momentum/article5645995.ece?homepage=true\">‘Chaiwala my PM’ gains momentum</a>"
+                }
+            },
+            {
+                "startDate":"2014,1,22",
+		        "endDate":"2014,1,22",
+                "headline":"<a href=\"http://www.firstpost.com/politics/aaps-aurat-problem-the-patent-misogyny-of-mango-men-1353249.html\">AAP’s ‘aurat’ problem: The patent misogyny of mango men</a>",
+        		"text":"\"(Child and women development minister) Rakhi Birla and (law minister) Somnath Bharti were fighting against prostitution, drug addiction and protection of women,\" said AAP leader Sanjay Singh in an unwitting and revealing slip of tongue. Despite the hot counter-accusations of media lies, the fact remains that Bharti's late night raid in Khirki was indeed against the protection of women.",
+		        "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://s3.firstpost.in/wp-content/uploads/2014/01/ArvindKejriwal_PTI_15Oct.jpg",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/aaps-aurat-problem-the-patent-misogyny-of-mango-men-1353249.html\">AAP’s ‘aurat’ problem: The patent misogyny of mango men</a>"
+                }
+            },
+            {
+                "startDate":"2014,1,29",
+		        "endDate":"2014,1,29",
+                "headline":"<a href=\"http://zeenews.india.com/news/nation/double-whammy-wednesday-for-congress-nc-ncp-go-soft-on-modi_907655.html\">Gujarat riots: NC, NCP differ with Congress, ask it to respect court order</a>",
+        		"text":"New Delhi: With poll after opinion poll suggesting that the country is rooting for Narendra Modi as prime minister this time, parties on the other side of the political spectrum seem to be warming up to the taste of 'NaMo tea'. ",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://zeenews.india.com/news/nation/double-whammy-wednesday-for-congress-nc-ncp-go-soft-on-modi_907655.html",
+                    "credit":"Zee News",
+                    "caption":"<a href=\"http://zeenews.india.com/news/nation/double-whammy-wednesday-for-congress-nc-ncp-go-soft-on-modi_907655.html\">Gujarat riots: NC, NCP differ with Congress, ask it to respect court order</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,11",
+		        "endDate":"2014,3,11",
+                "headline":"<a href=\"http://www.deccanherald.com/content/391432/nilekani-takes-social-media-storm.html\">Nilekani takes social media by storm to woo voters</a>",
+        		"text":"Log on to YouTube and you are most likely to see Infosys co-founder Nandan Nilekani making a speech about his “ideas for Bangalore,”  before you get a chance to see any other video.",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"http://www.deccanherald.com/page_images/thumb/2014/03/12/391432_thump.jpg",
+                    "credit":"Deccan Herald",
+                    "caption":"<a href=\"http://www.deccanherald.com/content/391432/nilekani-takes-social-media-storm.html\">Nilekani takes social media by storm to woo voters</a>"
+                }
+            },
+            {
+                "startDate":"2014,1,17",
+		        "endDate":"2014,1,17",
+                "headline":"<a href=\"http://indiatoday.intoday.in/story/nandan-nilekani-politics-in-india/1/338301.html\">We cannot run away from politics or eliminate it as an option</a>",
+        		"text":"Earlier this year, around the time New Year resolutions have yet to lose their shine, I met with a group of young people who work in the neighbourhoods of Bangalore. These 20-somethings mentor teenagers in low-income households across the city. They help them with information and advice on education and the skills that will get them employment. I talked to them that afternoon of my vision for a better Bangalore for the kind of city they needed and that met their aspirations.",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"http://media2.intoday.in/indiatoday/images/stories//2014January/nandan_011814015743.jpg",
+                    "credit":"India Today",
+                    "caption":"<a href=\"http://indiatoday.intoday.in/story/nandan-nilekani-politics-in-india/1/338301.html\">We cannot run away from politics or eliminate it as an option</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,24",
+		        "endDate":"2014,4,24",
+                "headline":"<a href=\"http://www.thehindu.com/elections/loksabha2014/central/article5942636.ece\">Dalit villagers attacked for casting votes in Giridih</a>",
+        		"text":"Dalit villagers were attacked lathis, with bricks and stones thrown at them by upper-caste Bhumihars when they tried to cast their vote in villages in Gardih village in Jamua block in Giridih. Jamua which falls in Koderma constituency was scheduled for polling in the first phase of elections on April 10. Dalit villagers here said they had tried to vote for CPI (ML) when they were stopped by Bhumihar villagers, supporters of BJP, who assaulted a Dalit woman from their hamlet while she was casting her vote leading to a scuffle.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01859/24_dalit_injury_1859496f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/elections/loksabha2014/central/article5942636.ece\">Dalit villagers attacked for casting votes in Giridih</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,19",
+		        "endDate":"2014,4,19",
+                "headline":"<a href=\"http://www.livemint.com/Leisure/RzMzJqvoJR5OE24Z8ypChJ/Narendra-Modi-critics-expect-no-quarter-and-no-mercy.html\">Narendra Modi critics, expect no quarter, no mercy</a>",
+        		"text":"When Dileep Padgaonkar (then TOI managing editor), B.G. Verghese and I went to Modi for an inquiry report in 2002, Modi took up the “Newton’s third law” story that the TOI had run, being most upset with it because it revealed how casually Modi took retaliatory violence.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2014/04/19/Photos/rahul--621x414.jpg",
+                    "credit":"Live Mint",
+                    "caption":"<a href=\"http://www.livemint.com/Leisure/RzMzJqvoJR5OE24Z8ypChJ/Narendra-Modi-critics-expect-no-quarter-and-no-mercy.html\">Narendra Modi critics, expect no quarter, no mercy</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,15",
+		        "endDate":"2014,4,15",
+                "headline":"<a href=\"http://www.financialexpress.com/news/india-tv-journalist-quits-over-scripted-narendra-modi-interview/1240688\">India TV journalist quits over ‘scripted’ Narendra Modi interview</a>",
+        		"text":"Senior journalist and editorial director of India TV Qamar Waheed Naqvi resigned Monday from the Hindi news channel in protest against an allegedly “fixed” interview of the BJP’s prime ministerial candidate Narendra Modi",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.financialexpress.com/news/india-tv-journalist-quits-over-scripted-narendra-modi-interview/1240688",
+                    "credit":"Financial Express",
+                    "caption":"<a href=\"http://www.financialexpress.com/news/india-tv-journalist-quits-over-scripted-narendra-modi-interview/1240688\">India TV journalist quits over ‘scripted’ Narendra Modi interview</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,15",
+		        "endDate":"2014,4,15",
+                "headline":"<a href=\"http://news.oneindia.in/bangalore/updates-karnataka-goes-to-lok-sabha-election-2014-april17-lse-1431510.html\">LS polls: Karnataka sees voter turnout of 67.28 per cent</a>",
+        		"text":"Bangalore, April 17: Twenty-eight constituencies in Karnataka went to the general election in the fifth phase on Thursday. The state has 4,62,11,844 voters and 434 candidates in the fray. Twenty-one among the 434 candidates are women.",
+		        "tag":"",
+                "asset":
+                {
+                    "media":"http://news.oneindia.in/bangalore/updates-karnataka-goes-to-lok-sabha-election-2014-april17-lse-1431510.html",
+                    "credit":"One India",
+                    "caption":"<a href=\"http://news.oneindia.in/bangalore/updates-karnataka-goes-to-lok-sabha-election-2014-april17-lse-1431510.html\">LS polls: Karnataka sees voter turnout of 67.28 per cent</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,17",
+		        "endDate":"2014,4,17",
+                "headline":"Twitter @divyaspandana",
+        		"text":"#ramyaformandya here it is!! That's a thumbs up :) @karuna4s pic.twitter.com/WFzhcafyC7",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/BlZZHhlCEAAIHC2.jpg",
+                    "credit":"Twitter",
+                    "caption":"Twitter @divyaspandana"
+                }
+            },
+            {
+                "startDate":"2014,4,17",
+		        "endDate":"2014,4,17",
+                "headline":"Twitter @nandannilekani",
+        		"text":"We voted :) pic.twitter.com/PDZQP2FUge",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/BlZdcLHCUAAttl1.jpg",
+                    "credit":"Twitter",
+                    "caption":"Twitter @nandannilekani"
+                }
+            },
+            {
+                "startDate":"2014,4,17",
+		        "endDate":"2014,4,17",
+                "headline":"Twitter @BSYBJP",
+        		"text":"My finger got inked at Shikaripur. Come out and cast your valuable vote. It's your right and duty. pic.twitter.com/bV2qu5QWl9",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/BlY-IkyCIAA2Z1D.jpg",
+                    "credit":"Twitter",
+                    "caption":"Twitter @BSYBJP"
+                }
+            },
+            {
+                "startDate":"2014,4,15",
+		        "endDate":"2014,4,15",
+                "headline":"<a href=\"http://bangalore.citizenmatters.in/blogs/editors-blog/blog_posts/what-to-consider-while-voting-in-bengaluru-april-2014\">Why I will not fall for the “Vote for PM” trick</a>",
+        		"text":"Alright — so we’re all getting ready to vote throughout the country. Some states have already completed polling. Bengaluru's turn is tomorrow. How do you decide? This election, in particular, is seeing massive interest from all around the country. However, at least some of this interest is generated because of the silly way in which the Congress and BJP are continuing to differentiate themselves from each other, when the reality is far murkier.",
+		        "tag":"",
+                "asset":
+                {
+                    "media":"http://bangalore.citizenmatters.in/uploads/picture/image/11526/pic_article_pcm.jpg",
+                    "credit":"Citizen Matters",
+                    "caption":"<a href=\"http://bangalore.citizenmatters.in/blogs/editors-blog/blog_posts/what-to-consider-while-voting-in-bengaluru-april-2014\">Why I will not fall for the “Vote for PM” trick</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,17",
+		        "endDate":"2014,4,17",
+                "headline":"<a href=\"http://ibnlive.in.com/news/bangalore-this-96yearold-has-voted-in-every-election-since-1952/465705-81.html\">Bangalore: This 96-year-old has voted in every election since 1952</a>",
+        		"text":"Bangalore: 96-year-old Lakshmi Karanth is perhaps the oldest voter in India. She has voted in every election since 1952. Her grandson and grand daughter-in-law escorted her on Thursday to a polling booth in Bangalore South Lok Sabha seat.",
+		        "tag":"",
+                "asset":
+                {
+                    "media":"http://ibnlive.in.com/news/bangalore-this-96yearold-has-voted-in-every-election-since-1952/465705-81.html",
+                    "credit":"IBN Live",
+                    "caption":"<a href=\"http://ibnlive.in.com/news/bangalore-this-96yearold-has-voted-in-every-election-since-1952/465705-81.html\">Bangalore: This 96-year-old has voted in every election since 1952</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,13",
+		        "endDate":"2014,4,13",
+                "headline":"<a href=\"http://www.deccanherald.com/content/398956/bjp-plaint-against-muthalik.html\">BJP plaint against Muthalik</a>",
+        		"text":"The BJP on Sunday filed a complaint against Independent candidate Pramod Muthalik on the grounds that he has made false propaganda against BJP’s candidate for Bangalore South H N Ananth Kumar. Muthalik had released a book ‘Ananthana Avanthara’ that has details about alleged scams and irregularities connected to the BJP candidate.  Muthalik said Ananth Kumar along with corporate lobbyist Niira Radia was involved in a Rs 5,000-crore scam and a petition is pending before the Supreme Court in this regard.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.deccanherald.com/page_images/thumb/2014/04/13/398956_thump.gif",
+                    "credit":"Deccan Herald",
+                    "caption":"<a href=\"http://www.deccanherald.com/content/398956/bjp-plaint-against-muthalik.html\">BJP plaint against Muthalik</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,12",
+		        "endDate":"2014,4,12",
+                "headline":"<a href=\"http://blog.gramener.com/1420/the-wealth-of-candidates\">THE WEALTH OF CANDIDATES</a>",
+        		"text":"Nandan Nilekani’s wealth, at Rs 7,710 cr, is rather striking. His wealth is more than the net assets of the next two hundred candidates. Put another way, his assets are more than those of every other Congress candidate, BJP candidate, independent candidate, BSP candidate, JD(U) candidate and AAP candidate put together.",
+		        "tag":"ADR",
+                "asset":
+                {
+                    "media":"http://blog.gramener.com/wp-content/uploads/2014/04/Wealth-of-Candidates.png",
+                    "credit":"Gramener",
+                    "caption":"<a href=\"http://blog.gramener.com/1420/the-wealth-of-candidates\">THE WEALTH OF CANDIDATES</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,9",
+		        "endDate":"2014,4,9",
+                "headline":"<a href=\"http://www.democracynow.org/2014/4/9/is_india_on_a_totalitarian_path\">Is India on a Totalitarian Path? Arundhati Roy on Corporatism, Nationalism and World’s Largest Vote</a>",
+        		"text":"As voting begins in India in the largest elections the world has ever seen, we spend the hour with Indian novelist and essayist Arundhati Roy. ",
+		        "tag":"",
+                "asset":
+                {
+                    "media":"http://www.democracynow.org/2014/4/9/is_india_on_a_totalitarian_path",
+                    "credit":"Democracy Now",
+                    "caption":"<a href=\"http://www.democracynow.org/2014/4/9/is_india_on_a_totalitarian_path\">Is India on a Totalitarian Path? Arundhati Roy on Corporatism, Nationalism and World’s Largest Vote</a>"
+                }
+            },
+            {
+                "startDate":"2014,2,19",
+		        "endDate":"2014,2,19",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/modi-praises-graft-tainted-bsy-says-corruption-in-cong-womb/\">Modi praises graft-tainted BSY, says corruption in Cong womb</a>",
+        		"text":"For the first time in his poll campaign, Modi shared the dais with former Karnataka chief minister B S Yeddyurappa who recently returned to the BJP after being exiled over corruption. The rally was primarily put together by the Yeddyurappa group to mark its return to the BJP.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://images.indianexpress.com/2014/02/modi13.jpg",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/modi-praises-graft-tainted-bsy-says-corruption-in-cong-womb/\">Modi praises graft-tainted BSY, says corruption in Cong womb</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,8",
+		        "endDate":"2014,4,8",
+                "headline":"<a href=\"http://www.aljazeera.com/indepth/interactive/2014/04/infographic-how-india-forms-government-20144484611258351.html\">Infographic: How India forms a government</a>",
+        		"text":"A tight race seems likely as 814 million voters elect leaders in world's largest democracy next week.",
+		        "tag":"BLOG",
+                "asset":
+                {
+                    "media":"http://www.aljazeera.com/indepth/interactive/2014/04/infographic-how-india-forms-government-20144484611258351.html",
+                    "credit":"AlJazeera",
+                    "caption":"<a href=\"http://www.aljazeera.com/indepth/interactive/2014/04/infographic-how-india-forms-government-20144484611258351.html\">Infographic: How India forms a government</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,3",
+		        "endDate":"2014,4,3",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/An-EVM-that-votes-only-for-BJP-stuns-poll-staff-in-Assam/articleshow/33153152.cms\">An EVM that 'votes' only for BJP stuns poll staff in Assam</a>",
+        		"text":"GUWAHATI: An electronic voting machine raised many eyebrows across the state during a mandatory mock poll in Jorhat on Tuesday. Every time a button was pressed, the vote went in favour of BJP. ",
+		        "tag":"EC, BJP",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/An-EVM-that-votes-only-for-BJP-stuns-poll-staff-in-Assam/articleshow/33153152.cms",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/An-EVM-that-votes-only-for-BJP-stuns-poll-staff-in-Assam/articleshow/33153152.cms\">An EVM that 'votes' only for BJP stuns poll staff in Assam</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,2",
+		        "endDate":"2014,4,2",
+                "headline":"<a href=\"http://www.hindustantimes.com/india-news/cong-corporator-accuses-hindutva-activists-of-molesting-her/article1-1203520.aspx\">Right-wing outfit molests Congress councillor</a>",
+        		"text":"A mob of around 30 suspected Hindu Jagarana Vedike activists allegedly sexually assaulted a woman member of Mangalore City Corporation when she was canvassing for the Congress party on Sunday.",
+		        "tag":"",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/india-news/cong-corporator-accuses-hindutva-activists-of-molesting-her/article1-1203520.aspx",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/india-news/cong-corporator-accuses-hindutva-activists-of-molesting-her/article1-1203520.aspx\">Right-wing outfit molests Congress councillor</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,2",
+		        "endDate":"2014,4,2",
+                "headline":"<a href=\"http://www.bbc.com/news/world-asia-india-26781692\">India digital bosses Nilekani and Balakrishnan vie for votes</a>",
+        		"text":"Two of India's leading information technology figures - Nandan Nilekani and V Balakrishnan - hope to win over voters in Bangalore with their record of corporate success and transparency, reports Saritha Rai.",
+		        "tag":"INC, AAP",
+                "asset":
+                {
+                    "media":"http://news.bbcimg.co.uk/media/images/73870000/jpg/_73870533_478805923.jpg",
+                    "credit":"BBC",
+                    "caption":"<a href=\"http://www.bbc.com/news/world-asia-india-26781692\">India digital bosses Nilekani and Balakrishnan vie for votes</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,29",
+		        "endDate":"2014,3,29",
+                "headline":"<a href=\"http://scroll.in/article/659762/Taking-on-a-2,500-km-train-journey-to-listen-to-India's-conversations-about-elections-%E2%80%93--and-life\">Taking on a 2,500-km train journey to listen to India's conversations about elections – and life</a>",
+        		"text":"Aboard the Brahmaputra Mail as she travels across the country, Supriya Sharma finds that conflicts of the North East have many shades of gray.",
+		        "tag":"BLOG",
+                "asset":
+                {
+                    "media":"https://d1u4oo4rb13yy8.cloudfront.net/6dce539b-6de5-4440-8465-1e2beeaff334.jpg",
+                    "credit":"Scroll",
+                    "caption":"<a href=\"http://scroll.in/article/659762/Taking-on-a-2,500-km-train-journey-to-listen-to-India's-conversations-about-elections-%E2%80%93--and-life\">Taking on a 2,500-km train journey to listen to India's conversations about elections – and life</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,24",
+		        "endDate":"2014,4,24",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/modi-files-nomination-papers-in-varanasi/article5943164.ece?homepage=true\">Modi files nomination papers in Varanasi</a>",
+        		"text":"BJP prime ministerial candidate Narendra Modi on Thursday filed his nomination papers for the Lok Sabha elections from Varanasi constituency, saying he had been called by “Mother Ganga” to contest from this holy city.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01860/modi_4_1860576g.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/modi-files-nomination-papers-in-varanasi/article5943164.ece?homepage=true\">Modi files nomination papers in Varanasi</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,24",
+		        "endDate":"2014,4,24",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/modi-files-nomination-papers-in-varanasi/article5943164.ece?homepage=true\">Modi files nomination papers in Varanasi</a>",
+        		"text":"BJP prime ministerial candidate Narendra Modi on Thursday filed his nomination papers for the Lok Sabha elections from Varanasi constituency, saying he had been called by “Mother Ganga” to contest from this holy city.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01860/modi_4_1860576g.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/modi-files-nomination-papers-in-varanasi/article5943164.ece?homepage=true\">Modi files nomination papers in Varanasi</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,27",
+		        "endDate":"2014,4,27",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/ramdev-is-sorry-but-fir-filed/article5951846.ece\">Ramdev is sorry, but FIR filed</a>",
+        		"text":"As Baba Ramdev’s comments against Congress vice-president Rahul Gandhi led to an uproar in political circles and Dalit groups, the police in Lucknow filed an FIR against the yoga guru on Saturday.",
+		        "tag":"Dalit",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01864/RAMDEV-MODI_1864383f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/ramdev-is-sorry-but-fir-filed/article5951846.ece\">Ramdev is sorry, but FIR filed</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,27",
+		        "endDate":"2014,4,27",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/God-save-us-from-Gujarat-model-Sonia-Gandhi/articleshow/34267592.cms\">God save us from Gujarat model: Sonia Gandhi</a>",
+        		"text":"BARNALA: Sonia Gandhi hit back at Narendra Modi by finding fault in his model of governance in Gujarat. Without naming him, she accused him of trying to usurp absolute power in his hand. ",
+		        "tag":"INC, BJP",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/God-save-us-from-Gujarat-model-Sonia-Gandhi/articleshow/34267592.cms",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/God-save-us-from-Gujarat-model-Sonia-Gandhi/articleshow/34267592.cms\">God save us from Gujarat model: Sonia Gandhi</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,26",
+		        "endDate":"2014,4,26",
+                "headline":"<a href=\"http://www.thehindu.com/elections/loksabha2014/congress-could-extend-support-to-third-front-to-form-govt-khurshid/article5951482.ece\">Congress could extend support to Third front to form govt: Khurshid</a>",
+        		"text":"Union Minister Salman Khurshid on Saturday said Congress could consider extending support to the Third front or taking its help, if necessary to form the government at the Centre after Lok Sabha polls. He claimed that Narendra Modi was going to emerge as a “big problem” for BJP and referring to Ram temple movement, said that when “Bhagwan ki lehar” (God’s wave) could not stop Congress, then how can “Modi wave” stop it.",
+		        "tag":"INC, BJP, Third Front",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01864/vbk-26-Khurshid__c_1864420f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/elections/loksabha2014/congress-could-extend-support-to-third-front-to-form-govt-khurshid/article5951482.ece\">Congress could extend support to Third front to form govt: Khurshid</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,28",
+		        "endDate":"2014,4,28",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/after-priyankas-jibe-on-modi-bjp-releases-video-targetting-robert-vadras-land-deals/\">BJP launches a scathing attack with Vadra CD, Priyanka Gandhi compares BJP to ‘panicky rats’</a>",
+        		"text":"Hours after Priyanka Gandhi Vadra hit out at Narendra Modi again, the BJP Sunday launched its sharpest attack against her husband, releasing a strongly worded booklet and video targeting Robert Vadra. Titled ‘Damaad Shri’, the nearly 8-minute video accuses the Bhupinder Singh Hooda-led government in Haryana and the previous Ashok Gehlot-led regime in Rajasthan of helping Vadra grab land across the two states in violation of rules.",
+		        "tag":"INC, BJP",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=sLBf1EmcQ7M",
+                    "credit":"Video: BJP, Article: Indian Express ",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/after-priyankas-jibe-on-modi-bjp-releases-video-targetting-robert-vadras-land-deals/\">BJP launches a scathing attack with Vadra CD, Priyanka Gandhi compares BJP to ‘panicky rats’</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,27",
+		        "endDate":"2014,4,27",
+                "headline":"<a href=\"http://www.hindustantimes.com/india-news/allaboutnarendramodi/tmc-hits-back-at-bjp-calls-modi-butcher-of-gujarat/article1-1212934.aspx\">Modi hits out at Mamata over her paintings, TMC warns of defamation suit against him</a>",
+        		"text":"The electoral battle in West Bengal took a personal turn on Sunday with BJP’s PM candidate Narendra Modi accusing West Bengal CM Mamata Banerjee of helping people associated with the Saradha chit-fund scam and questioning the cost at which her paintings were sold.",
+		        "tag":"TMC, BJP",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/images/2014/4/c2a2e80d-d41b-422c-8bb2-7d4ffd55d270wallpaper1.jpg",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/india-news/allaboutnarendramodi/tmc-hits-back-at-bjp-calls-modi-butcher-of-gujarat/article1-1212934.aspx\">Modi hits out at Mamata over her paintings, TMC warns of defamation suit against him</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,19",
+		        "endDate":"2014,4,19",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/there-ll-be-no-place-in-india-for-modi-critics-says-bjp-leader-giriraj-singh-510775?curl=1397958778\">There'll be no place in India for Modi critics, says BJP leader Giriraj Singh</a>",
+        		"text":"Those who want to stop Narendra Modi (from becoming prime minister) are looking towards Pakistan. In the coming days, they will have no place in India. They will only have place in Pakistan, -  Giriraj Singh said while addressing a gathering in Godda district of Jharkhand.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/story_page/Giriraj-Singh-360x270_1.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/there-ll-be-no-place-in-india-for-modi-critics-says-bjp-leader-giriraj-singh-510775?curl=1397958778\">There'll be no place in India for Modi critics, says BJP leader Giriraj Singh</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,28",
+		        "endDate":"2014,4,28",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/farooq-hits-back-let-modi-voters-all-jump-into-sea/\">Farooq hits back: ‘Let Modi voters all jump into sea’</a>",
+        		"text":"Union minister and National Conference president Farooq Abdullah said Sunday that Kashmir wouldn’t be part of an India that is “communal” and that those who “vote for Modi should jump into the sea”.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://images.indianexpress.com/2014/04/farooq1.jpg",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/farooq-hits-back-let-modi-voters-all-jump-into-sea/\">Farooq hits back: ‘Let Modi voters all jump into sea’</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,29",
+		        "endDate":"2014,4,29",
+                "headline":"<a href=\"http://scroll.in/article/663105/Ahmedabad-riot-victims-watch-BJP's-strategy-in-UP-with-a-sense-of-d%C3%A9j%C3%A0-vu\">Ahmedabad riot victims watch BJP's strategy in UP with a sense of déjà vu</a>",
+        		"text":"The polarisation of UP in the wake of the Muzaffarnagar riots seems chillingly familiar to the residents of Naroda Patiya, where 97 Muslims were massacred on February 28, 2002.",
+		        "tag":"",
+                "asset":
+                {
+                    "media":"https://d1u4oo4rb13yy8.cloudfront.net/9bb23255-001d-476f-9cb4-89e2e079057b.jpg",
+                    "credit":"Scroll",
+                    "caption":"<a href=\"http://scroll.in/article/663105/Ahmedabad-riot-victims-watch-BJP's-strategy-in-UP-with-a-sense-of-d%C3%A9j%C3%A0-vu\">Ahmedabad riot victims watch BJP's strategy in UP with a sense of déjà vu</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,29",
+		        "endDate":"2014,4,29",
+                "headline":"<a href=\"http://scroll.in/article/663122/How-free-and-fair-are-the-world%E2%80%99s-biggest-elections?\">How free and fair are the world’s biggest elections?</a>",
+        		"text":"The Election Commission would like to have you believe that poll rigging and booth capturing are history. But this election has seen plenty of both.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"https://d1u4oo4rb13yy8.cloudfront.net/3807ac46-4687-44ce-bc61-35124855b14e.jpg",
+                    "credit":"Scroll",
+                    "caption":"<a href=\"http://scroll.in/article/663122/How-free-and-fair-are-the-world%E2%80%99s-biggest-elections?\">How free and fair are the world’s biggest elections?</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,27",
+		        "endDate":"2014,4,27",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Assam-poll-team-held-for-rigging/articleshow/34270179.cms\">Assam poll team held for rigging</a>",
+        		"text":"GUWAHATI: An entire team of polling officials, including the presiding officer, and two others — a village defence party member and a videographer — have been arrested on charges of booth capturing and rigging the polls on April 24 at a booth in Guwahati Lok Sabha constituency. ",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Assam-poll-team-held-for-rigging/articleshow/34270179.cms",
+                    "credit":"Scroll",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Assam-poll-team-held-for-rigging/articleshow/34270179.cms\">Assam poll team held for rigging</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,25",
+		        "endDate":"2014,4,25",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-nagaland-congress-leaders-allege-rigging-during-lok-sabha-polls-1981980\">Nagaland Congress leaders allege rigging during Lok Sabha polls</a>",
+        		"text":"Congress leaders met the Chief Election Commissioner V S Sampath and submitted a complaint alleging large-scale proxy voting and poll rigging by the supporters of ruling Naga People's Front (NPF) during the April 9 Lok Sabha polls in Nagaland.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/25/230780-votene.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-nagaland-congress-leaders-allege-rigging-during-lok-sabha-polls-1981980\">Nagaland Congress leaders allege rigging during Lok Sabha polls</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,26",
+		        "endDate":"2014,4,26",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/ec-to-probe-complaints-of-missing-names-on-voters-list/article5948141.ece\">EC says sorry to ‘missing’ voters of Mumbai, Pune</a>",
+        		"text":"The issue cropped at the EC briefing on Thursday, where details were given on the sixth phase of polling. “We will look into the matter and we apologise for the inconvenience caused to voters,” Election Commissioner H.S. Brahma said in response to questions about missing or deleted names.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01862/BRAHMA_1862842f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/ec-to-probe-complaints-of-missing-names-on-voters-list/article5948141.ece\">EC says sorry to ‘missing’ voters of Mumbai, Pune</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,18",
+		        "endDate":"2014,4,18",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/karnataka/many-baffled-as-their-names-go-missing-from-voters-list/article5923065.ece?ref=relatedNews\">Many baffled as their names go missing from voters’ list</a>",
+        		"text":"Scores of voters in the Mysore Lok Sabha constituency were left feeling baffled and disappointed as they couldn’t cast their vote during the Lok Sabha elections on Thursday. The reason: their names were missing from the voters’ list.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01849/18BG_MISSING_VOTER_1849424f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/karnataka/many-baffled-as-their-names-go-missing-from-voters-list/article5923065.ece?ref=relatedNews\">Many baffled as their names go missing from voters’ list</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,19",
+		        "endDate":"2014,4,19",
+                "headline":"<a href=\"http://www.newindianexpress.com/elections/news/Six-million-Voters-Names-Deleted-in-Maharashtra/2014/04/19/article2177829.ece\">Six million Voters' Names Deleted in Maharashtra</a>",
+        		"text":"In a shocking revelation that could impact election results, the names of nearly six million voters have been deleted or diverted across Maharashtra.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://www.newindianexpress.com/elections/news/Six-million-Voters-Names-Deleted-in-Maharashtra/2014/04/19/article2177829.ece",
+                    "credit":"New Indian Express",
+                    "caption":"<a href=\"http://www.newindianexpress.com/elections/news/Six-million-Voters-Names-Deleted-in-Maharashtra/2014/04/19/article2177829.ece\">Six million Voters' Names Deleted in Maharashtra</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,25",
+		        "endDate":"2014,4,25",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Thousands-of-voters-names-go-missing-in-Mumbai/articleshow/34170361.cms?\">Thousands of voters’ names go missing in Mumbai</a>",
+        		"text":"MUMBAI: Thousands of Mumbaikars, including several prominent personalities, we-re left vote-less on Thursday after their names were found missing from the electoral rolls. Many of them had cast their ballot in both the general and assembly elections in 2009 and carried valid voter identity cards. Others found their names on the deleted list of voters and were debarred this season.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Thousands-of-voters-names-go-missing-in-Mumbai/articleshow/34170361.cms?",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Thousands-of-voters-names-go-missing-in-Mumbai/articleshow/34170361.cms?\">Thousands of voters’ names go missing in Mumbai</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,25",
+		        "endDate":"2014,4,25",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/yet-another-record-turnout-at-the-sixth-phase-of-polling/article5944439.ece?homepage=true\">Huge turnout in sixth phase of election</a>",
+        		"text":"On a day dominated by the wall-to-wall coverage on the electronic media of the road show which preceded the filing of nomination papers to the Varanasi Lok Sabha constituency by the BJP’s prime ministerial candidate Narendra Modi, a record number of voters turned up to exercise their franchise for the 117 constituencies in the six phase of the election spread over 11 states and one union territory.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01860/24TH_POLL1_1860698g.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/yet-another-record-turnout-at-the-sixth-phase-of-polling/article5944439.ece?homepage=true\">Huge turnout in sixth phase of election</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,24",
+		        "endDate":"2014,4,24",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/eight-polling-officials-including-5-policemen-killed-in-maoist-attack-in-dumka-513466?pfrom=home-lateststories\">Eight polling officials, including 5 policemen, killed in Maoist attack in Dumka</a>",
+        		"text":"Dumka, Jharkhand: Eight members of a polling team, including five jawans of the Jharkhand police, were killed this evening when a bus carrying them was blown off after hitting a landmine allegedly planted by the Maoists near Asnajore village in the Shikaripara police station of Jharkhand's Dumka district.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/2014/04/25/images/story_page/Dumka_Blast_Group_PTI_360.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/eight-polling-officials-including-5-policemen-killed-in-maoist-attack-in-dumka-513466?pfrom=home-lateststories\">Eight polling officials, including 5 policemen, killed in Maoist attack in Dumka</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,18",
+		        "endDate":"2014,4,18",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-bjp-asks-election-commission-to-stop-sonia-gandhi-from-airing-message-on-dd-air-1979924\">BJP asks Election Commission to stop Sonia Gandhi from airing message on DD, AIR</a>",
+        		"text":"BJP today petitioned the Election Commission to stop Congress President Sonia Gandhi from airing her message on Doordarshan and AIR and said it is violative of the Model Code as it polarises the election scene among religious communities.",
+		        "tag":"BJP, INC",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/18/229037-soniagandhi.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-bjp-asks-election-commission-to-stop-sonia-gandhi-from-airing-message-on-dd-air-1979924\">BJP asks Election Commission to stop Sonia Gandhi from airing message on DD, AIR</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,12",
+		        "endDate":"2014,4,12",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/ec-to-examine-complaint-against-modis-marital-status/article5905822.ece?homepage=true\">EC to examine complaint against Modi’s marital status</a>",
+        		"text":"A day after a complaint was filed against BJP’s prime ministerial candidate Narendra Modi over his marital status, Chief Election Commissioner V.S. Sampath on Saturday said the Commission would examine it in accordance with the Supreme Court judgements.",
+		        "tag":"BJP, EC",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01841/12TH_MODI_1841230e.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/ec-to-examine-complaint-against-modis-marital-status/article5905822.ece?homepage=true\">EC to examine complaint against Modi’s marital status</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,10",
+		        "endDate":"2014,4,10",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/mulayam-s-shocker-on-rape-boys-make-mistakes-why-hang-them-506823?pfrom=home-lateststories\">Mulayam's shocker on rape: Boys make mistakes, why hang them?</a>",
+        		"text":"Moradabad: Uttar Pradesh politician Mulayam Singh Yadav has sparked outrage with his comments questioning the death sentence to three men who were convicted of two gang-rapes in Mumbai last week. \"Should rape cases be punished with hanging? They are boys, they make mistakes,\" he said today while campaigning for the national election. ",
+		        "tag":"SP",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/story_page/Mulayam_Singh_Yadav_Moradabad_rally_PTI_360x270.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/mulayam-s-shocker-on-rape-boys-make-mistakes-why-hang-them-506823?pfrom=home-lateststories\">Mulayam's shocker on rape: Boys make mistakes, why hang them?</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,12",
+		        "endDate":"2014,4,12",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/ec-bans-amit-shah-azam-khan-rallies-in-up/article5901821.ece?homepage=true\">EC bans Amit Shah, Azam Khan rallies</a>",
+        		"text":"Taking serious exception to the failure of the U.P. government to file an FIR against Urban Development Minister Azam Khan for his communal utterances and to check inflammatory speeches by BJP leader Amit Shah, the Election Commission on Friday directed the Chief Secretary to initiate criminal proceedings against the two and ban public meetings where they are expected to be present.",
+		        "tag":"SP, BJP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01839/AmitAzam_1839462g.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/ec-bans-amit-shah-azam-khan-rallies-in-up/article5901821.ece?homepage=true\">EC bans Amit Shah, Azam Khan rallies</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,11",
+		        "endDate":"2014,4,11",
+                "headline":"<a href=\"http://in.reuters.com/article/2014/04/11/india-election-singh-sonia-idINDEEA3A0C320140411\">Ex-adviser says Manmohan Singh was hobbled by Sonia Gandhi</a>",
+        		"text":" A former media adviser to prime minister has alleged in a new book that Manmohan Singh allowed his authority to be undermined by Sonia Gandhi, president of the Congress party and standard-bearer of the Nehru-Gandhi dynasty.",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"http://s1.reutersmedia.net/resources/r/?m=02&d=20140411&t=2&i=883423622&w=580&fh=&fw=&ll=&pl=&r=CDEEA3A1D7G00",
+                    "credit":"Reuters",
+                    "caption":"<a href=\"http://in.reuters.com/article/2014/04/11/india-election-singh-sonia-idINDEEA3A0C320140411\">Ex-adviser says Manmohan Singh was hobbled by Sonia Gandhi</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,11",
+		        "endDate":"2014,4,11",
+                "headline":"<a href=\"http://www.mid-day.com/articles/shocking-women-having-sex-should-be-hanged-says-abu-azmi/15222050\">SHOCKING! Women having sex should be hanged, says Abu Azmi </a>",
+        		"text":"In a bizarre and grotesque statement, the state Samajwadi Party (SP) chief Abu Azmi said women who were raped should also be punished. The statement came after this reporter questioned Azmi about SP chief Mulayam Singh Yadav’s comments on rape.",
+		        "tag":"SP",
+                "asset":
+                {
+                    "media":"http://images.mid-day.com/images/2014/jun/Abu-Azmi.jpg",
+                    "credit":"Mid Day",
+                    "caption":"<a href=\"http://www.mid-day.com/articles/shocking-women-having-sex-should-be-hanged-says-abu-azmi/15222050\">SHOCKING! Women having sex should be hanged, says Abu Azmi </a>"
+                }
+            },
+            {
+                "startDate":"2014,4,11",
+		        "endDate":"2014,4,11",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/third-phase-of-ls-polls-ends-high-turnout-in-91-seats-chandigarh-tops-with-74-per-cent/\">Third phase of LS polls ends: High turnout in 91 seats; Chandigarh tops with 74 per cent</a>",
+        		"text":"High voter turnout was recorded in the 91 constituencies in 14 states and Union Territories which went to polls in the third and substantial phase of Lok Sabha elections, with Chandigarh witnessing the highest percentage of 74.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"http://images.indianexpress.com/2014/04/gandhisvoting.jpg",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/third-phase-of-ls-polls-ends-high-turnout-in-91-seats-chandigarh-tops-with-74-per-cent/\">Third phase of LS polls ends: High turnout in 91 seats; Chandigarh tops with 74 per cent</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,10",
+		        "endDate":"2014,4,10",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/bjp-removes-jaswant-singh-s-son-manvendra-from-party-s-national-executive-506908?pfrom=home-otherstories\">BJP removes Jaswant Singh's son Manvendra from party's national executive</a>",
+        		"text":"New Delhi: The BJP on Thursday removed Manvendra Singh, expelled party leader Jaswant Singh's son who is the MLA from Sheo in Rajasthan, from its national executive.",
+		        "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/story_page/manvendra_singh_with_advani_360.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/bjp-removes-jaswant-singh-s-son-manvendra-from-party-s-national-executive-506908?pfrom=home-otherstories\">BJP removes Jaswant Singh's son Manvendra from party's national executive</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,29",
+		        "endDate":"2014,4,29",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-jammu-kashmir-govt-neglecting-minority-hindus-of-kashmir-jkvm-1983343\">Jammu & Kashmir Govt neglecting minority Hindus of Kashmir: JKVMe</a>",
+        		"text":"An organisation of Kashmiri Pandits, Jammu Kashmir Vichar Manch (JKVM) today accused the state government of acting in a \"communal and partisan manner\" and neglecting the plight of the minority Hindus of Kashmir.",
+		        "tag":"Kashmir",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/29/231951-kashmir.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-jammu-kashmir-govt-neglecting-minority-hindus-of-kashmir-jkvm-1983343\">Jammu & Kashmir Govt neglecting minority Hindus of Kashmir: JKVMe</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,4",
+		        "endDate":"2014,3,4",
+                "headline":"<a href=\"http://www.thehindu.com/elections/loksabha2014/bangalore-south-to-witness-a-highprofile-battle/article5747193.ece\">Bangalore South to witness a high-profile battle</a>",
+        		"text":"The incumbent MP, Ananth Kumar, is expected to get the Bharatiya Janata Party ticket and Infosys co-founder and Unique Identification Authority of India (UIDAI) chairman Nandan Nilekani, the Congress ticket",
+		        "tag":"INC, BJP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01775/04BG_NANDAN_NILEKA_1775938g.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/elections/loksabha2014/bangalore-south-to-witness-a-highprofile-battle/article5747193.ece\">Bangalore South to witness a high-profile battle</a>"
+                }
+            },
+            {
+                "startDate":"2013,9,22",
+		        "endDate":"2013,9,22",
+                "headline":"<a href=\"http://www.bangaloremirror.com/columns/code-560/Starry-airs/articleshow/22898320.cms\">Starry airs</a>",
+        		"text":"Whether the Congress leadership finally gives him a ticket to the next Lok Sabha elections or not, Nandan Nilekani definitely seems to have caught a very special bug that is generally characteristic of the man heading the pack running our country at present — the hush bug. Nilekani, Chairman, Unique Identification Authority of India (UIDAI), had most mediapersons miffed as he turned up at the launch of its multilingual website an hour later than the scheduled time, flashed a smile and appeared clueless about the proceedings of the event. ",
+		        "tag":"INC",
+                "asset":
+                {
+                    "media":"http://www.bangaloremirror.com/columns/code-560/Starry-airs/articleshow/22898320.cms",
+                    "credit":"Bangalore Mirror",
+                    "caption":"<a href=\"http://www.bangaloremirror.com/columns/code-560/Starry-airs/articleshow/22898320.cms\">Starry airs</a>"
+                }
             }
-
 
         ]
     }

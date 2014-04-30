@@ -1352,7 +1352,7 @@
                 "asset":
                 {
                     "media":"http://twitter.com/wikileaks/statuses/445261567295512576",
-                    "credit":"Twitter",
+                    "credit":"Twitter"
                 }
             },
             {
@@ -1368,7 +1368,173 @@
                     "caption":"<a href=\"http://www.dnaindia.com/india/report-how-wikileaks-dammed-the-narendra-modi-wave-1970069\">How Wikileaks dammed the Narendra Modi wave</a>"
                 }
             },            
-
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/applause-as-voter-stops-chiranjeevi-from-jumping-voters-queue-516111?fb\">Applause as voter stops Chiranjeevi from jumping voters' queue</a>",
+                "text":"Hyderabad: Actor-politician Chiranjeevi was censured by voters today when he allegedly tried to jump the queue at a polling station in Andhra Pradesh.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/story_page/Chiranjeevi_votes_360.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/applause-as-voter-stops-chiranjeevi-from-jumping-voters-queue-516111?fb\">Applause as voter stops Chiranjeevi from jumping voters' queue</a>"
+                }
+            }, 
+            {
+                "startDate":"2014,4,29",
+                "endDate":"2014,4,29",
+                "headline":"<a href=\"http://indiatoday.intoday.in/story/hashmi-shams-tabreed-tweets-aap-workers-drinking-beer-aap-supporters-urinating-in-ganga-varanasi/1/358156.html\">Two versions of attack on AAP supporters at Varanasi ghat</a>",
+                "text":"There are two versions of what triggered the attack on two Aam Aadmi Party supporters at a ghat in Varanasi on Monday evening.",
+                "tag":"AAP, BJP",
+                "asset":
+                {
+                    "media":"http://media2.intoday.in/indiatoday/images/stories//2014April/varanasi-story_350_042914015907.jpg",
+                    "credit":"India Today",
+                    "caption":"<a href=\"http://indiatoday.intoday.in/story/hashmi-shams-tabreed-tweets-aap-workers-drinking-beer-aap-supporters-urinating-in-ganga-varanasi/1/358156.html\">Two versions of attack on AAP supporters at Varanasi ghat</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Minorities-have-reason-to-fear-Modi-Amartya-Sen-says-Gujarat-CM-has-vision-of-where-he-will-take-us-Jagdish-Bhagwati-argues/articleshow/34392562.cms\">Minorities have reason to fear Modi, Amartya Sen says; Gujarat CM has vision of where he will take us, Jagdish Bhagwati argues</a>",
+                "text":"NEW DELHI: Amartya Sen, Nobel laureate, and Jagdish Bhagwati, considered by some as the greatest economist not to have won a Nobel, are known for their sharp ideological differences. They speak to TOI on Narendra Modi and the priorities of the next government.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Minorities-have-reason-to-fear-Modi-Amartya-Sen-says-Gujarat-CM-has-vision-of-where-he-will-take-us-Jagdish-Bhagwati-argues/articleshow/34392562.cms",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Minorities-have-reason-to-fear-Modi-Amartya-Sen-says-Gujarat-CM-has-vision-of-where-he-will-take-us-Jagdish-Bhagwati-argues/articleshow/34392562.cms\">Minorities have reason to fear Modi, Amartya Sen says; Gujarat CM has vision of where he will take us, Jagdish Bhagwati argues</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"@narendramodi on twitter",
+                "text":"Selfie is in! Share yours using #SelfieWithModi & see what happens https://mosaic.narendramodi.in/  pic.twitter.com/oDrCZztzo0",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/BmcabpfCEAAGWXQ.jpg",
+                    "credit":"Twitter",
+                    "caption":"@narendramodi on twitter"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://indiatoday.intoday.in/story/hashmi-shams-tabreed-tweets-aap-workers-drinking-beer-at-assi-ghat-urinating-in-ganga-aap-bjp-war-elections-2014/1/358278.html\">Tweeter who set off AAP-BJP war with beer, urinating tweet apologises</a>",
+                "text":"Hashmi Shams Tabreed, the journalist who kicked up a storm on Tuesday with his tweets where he alleged that \"AAP folks had been engaged in a fight on Tuesday with people who objected to their drinking beer at Assi ghat and urinating in Ganga\" has apologised for his tweets.",
+                "tag":"AAP, BJP",
+                "asset":
+                {
+                    "media":"http://media2.intoday.in/indiatoday/images/stories//2014April/tweet_story_650_043014101550.jpg",
+                    "credit":"India Today",
+                    "caption":"<a href=\"http://indiatoday.intoday.in/story/hashmi-shams-tabreed-tweets-aap-workers-drinking-beer-at-assi-ghat-urinating-in-ganga-aap-bjp-war-elections-2014/1/358278.html\">Tweeter who set off AAP-BJP war with beer, urinating tweet apologises</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-narendra-modi-flashes-party-symbol-congress-demands-fir-against-gujarat-cm-1983587\">Narendra Modi flashes party symbol, Congress demands FIR against Gujarat CM</a>",
+                "text":"Narendra Modi today landed in a controversy when he displayed his party symbol 'Lotus' and addressed the media after casting his vote, with the Congress moving the EC against the move and demanding that the poll body file an FIR against him. The Congress and Aam Aadmi Party have alleged it to be a violation of election code of conduct and demanded that action be taken against the Gujarat Chief Minister. The BJP's prime ministerial candidate was seen displaying a replica of Lotus, the party symbol, during his interaction with the press, after he cast his ballot today in Ranip area of city. Earlier, he was seen taking a photograph of himself with the replica of the party symbol at the venue of his media address after he casted his vote.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/30/232198-232119-modi-selfie.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-narendra-modi-flashes-party-symbol-congress-demands-fir-against-gujarat-cm-1983587\">Narendra Modi flashes party symbol, Congress demands FIR against Gujarat CM</a>"
+                }
+            },
+            {
+                "startDate":"2014,1,27",
+                "endDate":"2014,1,27",
+                "headline":"@VishalDadlani on Twitter",
+                "text":"",
+                "tag":"AAP, BJP, INC",
+                "asset":
+                {
+                    "media":"https://twitter.com/VishalDadlani/statuses/427853605089988608",
+                    "credit":"Twitter"
+                }
+            } ,
+            {           
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"@ANI_news on twitter",
+                "text":"Why are Sonia Gandhi and Narendra Modi still silent on this comment by Ramdev?-Mayawati pic.twitter.com/RYZnDZdcOq",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/BmcG5-KCQAAmWZi.jpg",
+                    "credit":"Twitter",
+                    "caption":"@ANI_news on twitter"
+                }
+            },
+            {
+                "startDate":"2014,4,28",
+                "endDate":"2014,4,28",
+                "headline":"<a href=\"http://www.business-standard.com/article/management/politically-correct-on-social-media-114042700609_1.html\">Politically correct on social media</a>",
+                "text":"The 16th General (Lok Sabha) Elections 2014 has found its way in conversations not just in political circles but also on social media. And Twitter seems to be the platform of choice to vent anger/resentment/disappointment or to simply woo supporters. Candidates, journalists and citizens are using social media extensively to discover election-related content and converse with others real time.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://bsmedia.business-standard.com/_media/bs/img/article/2012-12/17/full/1355729911-3492.JPG",
+                    "credit":"Business Standard",
+                    "caption":"<a href=\"http://www.business-standard.com/article/management/politically-correct-on-social-media-114042700609_1.html\">Politically correct on social media</a>"
+                }
+            },
+            {
+                "startDate":"2014,1,30",
+                "endDate":"2014,1,30",
+                "headline":"@twitter.com on Twitter",
+                "text":"",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://twitter.com/ANI_news/status/461397922362310656",
+                    "credit":"Twitter"
+                }
+            },
+            {
+                "startDate":"2014,4,9",
+                "endDate":"2014,4,9",
+                "headline":"Parliamentary constituency-wise dominance of religion in constituencies",
+                "text":"",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/09/226201-pc-dominance-of-religion.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/infographics/photo-parliamentary-constituency-wise-dominance-of-religion-in-constituencies-1976679\">Parliamentary constituency-wise dominance of religion in constituencies</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,2",
+                "endDate":"2014,4,2",
+                "headline":"<a href=\"http://www.dnaindia.com/mumbai/report-nda-s-performance-on-overall-economic-parameters-worse-than-upa-s-study-1974336\">NDA's performance on overall economic parameters worse than UPA's: Study</a>",
+                "text":"Compared to the NDA rule, the UPA tenure of eight years has been characterised by faster growth, higher savings and investment, growing foreign trade and capital inflows and increased infrastructure spending, according to a a new study by three economists in three universities.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/02/224514-bleh.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/mumbai/report-nda-s-performance-on-overall-economic-parameters-worse-than-upa-s-study-1974336\">NDA's performance on overall economic parameters worse than UPA's: Study</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,29",
+                "endDate":"2014,4,29",
+                "headline":"<a href=\"http://www.dnaindia.com/mumbai/report-election-commission-finds-congress-milind-deora-sanjay-nirupam-among-four-guilty-of-paid-news-1983380\">Election Commission finds Congress' Milind Deora, Sanjay Nirupam among four guilty of paid news</a>",
+                "text":"n all, 84 complaints of paid news were received by a committee specially set up to keep a watch on paid news. Complaints against Congress candidates - Union Minister of State for Shipping and IT Milind Deora (Mumbai South), Sanjay Nirupam (Mumbai North), Vishwajit Kadam (Pune) - and BJP candidate from Pune Deepak Shirole have been found true, sources in the State Election Office said.",
+                "tag":"EC",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/29/231997-sanjay-deora.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/mumbai/report-election-commission-finds-congress-milind-deora-sanjay-nirupam-among-four-guilty-of-paid-news-1983380\">Election Commission finds Congress' Milind Deora, Sanjay Nirupam among four guilty of paid news</a>"
+                }
+            }
         ]
     }
 }

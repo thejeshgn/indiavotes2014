@@ -1343,7 +1343,31 @@
                     "credit":"Bangalore Mirror",
                     "caption":"<a href=\"http://www.bangaloremirror.com/columns/code-560/Starry-airs/articleshow/22898320.cms\">Starry airs</a>"
                 }
-            }
+            },
+            {
+                "startDate":"2014,3,16",
+                "endDate":"2014,3,16",
+                "headline":"@wikileaks on Twitter",
+                "tag":"BJP, Wikileaks",
+                "asset":
+                {
+                    "media":"http://twitter.com/wikileaks/statuses/445261567295512576",
+                    "credit":"Twitter",
+                }
+            },
+            {
+                "startDate":"2014,3,17",
+                "endDate":"2014,3,17",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-how-wikileaks-dammed-the-narendra-modi-wave-1970069\">How Wikileaks dammed the Narendra Modi wave</a>",
+                "text":"So here's what happened; Wikileaks, an organisation run by information 'hactivist' Julian Assange, earlier today, put out a tweet from their official account denying that they ever endorsed BJP's prime ministerial candidate Narendra Modi.",
+                "tag":"BJP, Wikileaks",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/03/17/220879-lead.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-how-wikileaks-dammed-the-narendra-modi-wave-1970069\">How Wikileaks dammed the Narendra Modi wave</a>"
+                }
+            },            
 
         ]
     }

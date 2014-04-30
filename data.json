@@ -1690,7 +1690,191 @@
                     "credit":"aljazeera",
                     "caption":"<a href=\"http://www.aljazeera.com/indepth/features/2014/04/bjp-chief-riot-guilty-will-be-punished-201443043229123424.html\">BJP chief: Riot guilty will be punished</a>"
                 }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-congress-leader-digvijaya-singh-accepts-his-relationship-with-journalist-amrita-rai-on-twitter-1983624\">Congress leader Digvijaya Singh accepts his relationship with journalist Amrita Rai on Twitter</a>",
+                "text":"In a series of tweets, senior Congress leader Digvijaya Singh has accepted his relationship with journalist Amrita Rai.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/04/30/232234-digvijay.jpg",
+                    "credit":"DNA India",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-congress-leader-digvijaya-singh-accepts-his-relationship-with-journalist-amrita-rai-on-twitter-1983624\">Congress leader Digvijaya Singh accepts his relationship with journalist Amrita Rai on Twitter</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,18",
+                "endDate":"2014,4,18",
+                "headline":"<a href=\"http://mobile.nytimes.com/2014/04/19/opinion/being-muslim-under-narendra-modi.html\">Being Muslim Under Narendra Modi</a>",
+                "text":"AHMEDABAD, India — Late last month I bought an Indian comic book online. I hadn’t bought one since the mid-80s, when I was a boy and would walk to the bookstore in my hometown in Kashmir to pick up copies of D.C. and Marvel Comics, or Amar Chitra Katha, a series based on the lives of major contemporary, historical and mythological figures in India. My latest purchase, “Bal Narendra” (“Boy Narendra”), was styled after Amar Chitra Katha.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://static01.nyt.com/images/2014/04/19/opinion/19peer/19peer-articleLarge.jpg",
+                    "credit":"NYT",
+                    "caption":"<a href=\"http://mobile.nytimes.com/2014/04/19/opinion/being-muslim-under-narendra-modi.html\">Being Muslim Under Narendra Modi</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,2",
+                "endDate":"2014,4,2",
+                "headline":"<a href=\"http://www.business-standard.com/article/opinion/shankar-sharma-devina-mehra-the-strange-case-for-india-s-macroeconomic-exceptionalism-114040201255_1.html\">Shankar Sharma & Devina Mehra: The strange case for India's macroeconomic exceptionalism</a>",
+                "text":"Over the past couple of years, and particularly the past few months, we have become convinced that economists, the intelligentsia, fund managers, foreign brokers, don't read global macroeconomic news.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.business-standard.com/article/opinion/shankar-sharma-devina-mehra-the-strange-case-for-india-s-macroeconomic-exceptionalism-114040201255_1.html",
+                    "credit":"Business Standard",
+                    "caption":"<a href=\"http://www.business-standard.com/article/opinion/shankar-sharma-devina-mehra-the-strange-case-for-india-s-macroeconomic-exceptionalism-114040201255_1.html\">Shankar Sharma & Devina Mehra: The strange case for India's macroeconomic exceptionalism</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,24",
+                "endDate":"2014,4,24",
+                "headline":"<a href=\"http://www.newslaundry.com/2014/04/24/the-mob-the-media-somnath-bharti/\">THE MOB, THE MEDIA & SOMNATH BHARTI</a>",
+                "text":"Bhupendra Chaubey, CNN-IBN’s National Affairs Editor, who happened to be in the crowd, plunged himself into the mob and tried rescuing Bharti who was more football than human by now, but found himself pinned down as well. Sensing serious trouble, Abhay Tripathi, a reporter with CNN-IBN, dragged Bharti away and somehow managed to push him inside the nearest car – which happened to be the one I had hired for the day.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.newslaundry.com/wp-content/uploads/2014/04/article-img.jpg",
+                    "credit":"newslaundry",
+                    "caption":"<a href=\"http://www.newslaundry.com/2014/04/24/the-mob-the-media-somnath-bharti/\">THE MOB, THE MEDIA & SOMNATH BHARTI</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,22",
+                "endDate":"2014,4,22",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Election-Commission-directs-FIR-against-Pravin-Togadia-for-hate-speech/articleshow/34066988.cms\">Election Commission directs FIR against Pravin Togadia for ‘hate speech’</a>",
+                "text":"On Monday evening, Gujarat's chief electoral officer Anita Karwal said, \"We have inquired about the Bhavnagar incident and have directed the district administration to file an FIR in the matter.\"",
+                "tag":"VHP",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Election-Commission-directs-FIR-against-Pravin-Togadia-for-hate-speech/articleshow/34066988.cms",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/home/lok-sabha-elections-2014/news/Election-Commission-directs-FIR-against-Pravin-Togadia-for-hate-speech/articleshow/34066988.cms\">Election Commission directs FIR against Pravin Togadia for ‘hate speech’</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,21",
+                "endDate":"2014,4,21",
+                "headline":"<a href=\"http://www.newslaundry.com/2014/04/21/many-festoes/\">MANY-FESTOES</a>",
+                "text":"Compiled by Kishore Asthana and Arunabh Saikia",
+                "tag":"VHP",
+                "asset":
+                {
+                    "media":"http://www.newslaundry.com/2014/04/21/many-festoes/",
+                    "credit":"newslaundry",
+                    "caption":"<a href=\"http://www.newslaundry.com/2014/04/21/many-festoes/\">MANY-FESTOES</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30,13,21,0",
+                "endDate":"2014,4,30,13,21,0",
+                "headline":"@amrritarai on Twitter",
+                "text":"",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://twitter.com/amrritarai/status/461412628901134336",
+                    "credit":"Twitter",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2014,4,18",
+                "endDate":"2014,4,18",
+                "headline":"<a href=\"http://www.dawn.com/news/803407/modi-as-pakistans-candidate\">Modi as Pakistan’s candidate</a>",
+                "text":"A NEIGHBOUR in Delhi, who happens to be a Narendra Modi devotee, asked me which leader Pakistanis would want as India’s next prime minister.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.dawn.com/news/803407/modi-as-pakistans-candidate",
+                    "credit":"Dawn",
+                    "caption":"<a href=\"http://www.dawn.com/news/803407/modi-as-pakistans-candidate\">Modi as Pakistan’s candidate</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,29",
+                "endDate":"2014,3,29",
+                "headline":"Narendra Modi Interview: Watch unseen aspects of Modi's life Exclusive on NewsX",
+                "text":"Madhu Kishwar is talking in detail about Life threat on Narendra Modi. She also talks in detail about the propaganda machinery acting to malign the image of Gujarat and India as whole. Narendra Modi opens up on the biggest question marks on his records. He opens up on battles he fought as Gujarat Chief Minister. He also speaks on his battles with red tape and corruption.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=-Fj3ov4VVBE",
+                    "credit":"NewsXLive",
+                    "caption":"Narendra Modi Interview: Watch unseen aspects of Modi's life Exclusive on NewsX"
+                }
+            },
+            {
+                "startDate":"2014,4,4",
+                "endDate":"2014,4,4",
+                "headline":"<a href=\"http://www.newslaundry.com/2014/04/04/whose-modi-interview-is-it/\">WHOSE MODI INTERVIEW IS IT?</a>",
+                "text":"The biggest brand this election season – and this, anyone who’s not been living in a cave would agree – is Narendra Modi. Modi sells and no one knows it better than the media. He’s suddenly omnipresent. Other than when it comes to the world of news. Media houses can speak of him, but they just can’t speak to him. Which is why NewsX  (and its sister Hindi news channel, India News) must have thought that they’d catch every eyeball in the country when they announced that they had landed the “biggest interview of the decade” with Narendra Modi.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.newslaundry.com/wp-content/uploads/2014/04/Article-image-Decoding-Modi.jpg",
+                    "credit":"newslaundry",
+                    "caption":"<a href=\"http://www.newslaundry.com/2014/04/04/whose-modi-interview-is-it/\">WHOSE MODI INTERVIEW IS IT?</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,3",
+                "endDate":"2014,3,3",
+                "headline":"<a href=\"http://www.firstpost.com/politics/modi-backs-out-of-facebook-talks-live-citing-conditions-not-met-1417115.html\">Modi backs out of Facebook Talks Live citing conditions not met</a>",
+                "text":"The BJP's Prime Ministerial candidate is notoriously difficult to catch for media interviews but has backed out of an interaction on Facebook Talks Live at the last minute after organisers said he laid down conditions they couldn't fulfill.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://s3.firstpost.in/wp-content/uploads/2014/03/narendra-modi2.jpg",
+                    "credit":"FirstPost",
+                    "caption":"<a href=\"http://www.firstpost.com/politics/modi-backs-out-of-facebook-talks-live-citing-conditions-not-met-1417115.html\">Modi backs out of Facebook Talks Live citing conditions not met</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30,11,34,0",
+                "endDate":"2014,4,30,11,34,0",
+                "headline":"@TOILucknow on Twitter",
+                "text":"#AAP candidate from Lucknow Javed Jaferi after casting his vote #LucknowVotes #DanceOfDemocracy pic.twitter.com/i7vYX39DZI",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/BmcrwLUCUAEcqsk.jpg",
+                    "credit":"Twitter",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2014,4,30,8,14,0",
+                "endDate":"2014,4,30,8,14,0",
+                "headline":"@NSaina on Twitter",
+                "text":"I did my bit! Go vote pic.twitter.com/tAlTphShMt",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://pbs.twimg.com/media/Bmb99FACQAAnGiY.jpg",
+                    "credit":"Twitter",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2014,3,3",
+                "endDate":"2014,3,3",
+                "headline":"<a href=\"http://www.newslaundry.com/2014/03/14/candidates-2014-let-the-gossip-stop/\">CANDIDATES 2014: LET THE GOSSIP STOP</a>",
+                "text":"The biggest and most obvious talking point was Narendra Modi cancelling on us, leaving us heartbroken.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.newslaundry.com/wp-content/uploads/2014/03/let-the-gossip-stop_.jpg",
+                    "credit":"newslaundry",
+                    "caption":"<a href=\"http://www.newslaundry.com/2014/03/14/candidates-2014-let-the-gossip-stop/\">CANDIDATES 2014: LET THE GOSSIP STOP</a>"
+                }
             }
+
+
         ]
     }
 }

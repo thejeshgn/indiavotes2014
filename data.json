@@ -251,8 +251,21 @@
                 }
             },
 		{
-                "startDate":"2014,3,05",
+                "startDate":"2014,3,05,0,0,0",
 		        "endDate":"2014,3,05",
+                "headline":"<a href='http://eci.nic.in/eci_main1/GE2014/ge.html'>General Election 2014</a>",
+		        "text":"The five year term of the 15th Lok Sabha is due to expire on 31st May, 2014. Credible elections, conducted at regular prescribed intervals, are the very soul of any democratic system. Article 324 of the Constitution of India bestows the relevant powers, duties and functions upon the Election Commission of India while Section 14 of the Representation of the People Act, 1951 provides for conduct of the elections to constitute a new Lok Sabha before the expiry of its current term. Taking into account these Constitutional and legal provisions, the Election Commission of India has made comprehensive preparations for conduct of elections to the 16th Lok Sabha in a free, fair and peaceful manner.",
+		        "tag":"EC",
+                "asset":
+                {
+                    "media":"eci_india_map.jpg",
+                    "credit":"Election Commission of India",
+                    "caption":"<a href='http://eci.nic.in/eci_main1/GE2014/ge.html'>General Election 2014</a>"
+                }
+            },
+		{
+                "startDate":"2014,3,05,15,36,0",
+		        "endDate":"2014,3,05,15,36,0",
                 "headline":"<a href=\"http://indianexpress.com/article/india/politics/lok-sabha-elections-in-9-phases-to-start-from-april-7/\">Lok Sabha elections in 9 phases to start from April 7</a>",
 		        "text":"Lok Sabha elections will be held from April 7 to May 12 spread over nine days in the highest number of polling days so far involving an electorate of 81.4 crore, the Election Commission announced on Wednesday.",
 		        "tag":"EC",
@@ -264,8 +277,8 @@
                 }
             },
 		{
-                "startDate":"2014,3,05",
-		        "endDate":"2014,3,05",
+                "startDate":"2014,3,05,12,9,2",
+		        "endDate":"2014,3,05,12,9,2",
                 "headline":"<a href=\"http://www.dnaindia.com/india/report-state-wise-map-of-election-dates-for-lok-sabha-polls-2014-1966955\">State-wise map of Election dates for Lok Sabha polls 2014</a>",
         		"text":"Finally the Elections Commission has announced the date for the 2014 Lok Sabha elections, which will be held between April 7 and May 12 in nine phases. The counting of votes will be held on May 16. ",
 		        "tag":"EC",
@@ -1485,14 +1498,14 @@
                 }
             },
             {
-                "startDate":"2014,1,30",
-                "endDate":"2014,1,30",
-                "headline":"@twitter.com on Twitter",
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"@ANI_news on Twitter",
                 "text":"",
                 "tag":"",
                 "asset":
                 {
-                    "media":"https://twitter.com/ANI_news/status/461397922362310656",
+                    "media":"http://twitter.com/ANI_news/status/461397922362310656",
                     "credit":"Twitter"
                 }
             },
@@ -1526,13 +1539,156 @@
                 "startDate":"2014,4,29",
                 "endDate":"2014,4,29",
                 "headline":"<a href=\"http://www.dnaindia.com/mumbai/report-election-commission-finds-congress-milind-deora-sanjay-nirupam-among-four-guilty-of-paid-news-1983380\">Election Commission finds Congress' Milind Deora, Sanjay Nirupam among four guilty of paid news</a>",
-                "text":"n all, 84 complaints of paid news were received by a committee specially set up to keep a watch on paid news. Complaints against Congress candidates - Union Minister of State for Shipping and IT Milind Deora (Mumbai South), Sanjay Nirupam (Mumbai North), Vishwajit Kadam (Pune) - and BJP candidate from Pune Deepak Shirole have been found true, sources in the State Election Office said.",
+                "text":"In all, 84 complaints of paid news were received by a committee specially set up to keep a watch on paid news. Complaints against Congress candidates - Union Minister of State for Shipping and IT Milind Deora (Mumbai South), Sanjay Nirupam (Mumbai North), Vishwajit Kadam (Pune) - and BJP candidate from Pune Deepak Shirole have been found true, sources in the State Election Office said.",
                 "tag":"EC",
                 "asset":
                 {
                     "media":"http://static.dnaindia.com/sites/default/files/2014/04/29/231997-sanjay-deora.jpg",
                     "credit":"DNA India",
                     "caption":"<a href=\"http://www.dnaindia.com/mumbai/report-election-commission-finds-congress-milind-deora-sanjay-nirupam-among-four-guilty-of-paid-news-1983380\">Election Commission finds Congress' Milind Deora, Sanjay Nirupam among four guilty of paid news</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,31",
+                "endDate":"2014,3,31",
+                "headline":"<a href=\"http://www.bbc.com/news/world-asia-india-26762391\">India's social media election battle</a>",
+                "text":"Politicians are taking part in Google+ Hangouts, televised interviews organised by Facebook and using the Facebook-owned smart phone messaging app WhatsApp to connect with millions of tech-savvy urban voters.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://news.bbcimg.co.uk/media/images/73839000/jpg/_73839983_de858549-8efa-4456-8426-72234a2d3cb6.jpg",
+                    "credit":"BBC",
+                    "caption":"<a href=\"http://www.bbc.com/news/world-asia-india-26762391\">India's social media election battle</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,4",
+                "endDate":"2014,4,4",
+                "headline":"<a href=\"http://www.bbc.com/news/world-asia-india-25740826\">India elections: Gandhi, Kejriwal, Modi in war of words</a>",
+                "text":"So what makes these leaders tick for their respective parties? And what do they tell people in their rallies? BBC Monitoring's Vikas Pandey uses word cloud analysis to find out the answers.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://news.bbcimg.co.uk/media/images/73997000/jpg/_73997484_1e87e5a0-0360-4e50-b500-15bcba8f2aa5.jpg",
+                    "credit":"BBC",
+                    "caption":"<a href=\"http://www.bbc.com/news/world-asia-india-25740826\">India elections: Gandhi, Kejriwal, Modi in war of words</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,9",
+                "endDate":"2014,4,9",
+                "headline":"<a href=\"http://www.bbc.com/news/world-asia-india-26864546\">India elections: Battleground seats</a>",
+                "text":"The BBC Monitoring profiles some of the most hotly-contested seats.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://news.bbcimg.co.uk/media/images/73965000/jpg/_73965174_electionpic.jpg",
+                    "credit":"BBC",
+                    "caption":"<a href=\"http://www.bbc.com/news/world-asia-india-26864546\">India elections: Battleground seats</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.bbc.com/news/world-asia-india-27216730\">Indian media: Crucial voting phase</a>",
+                "text":"Media feel the seventh phase of India's general election is \"a make or break day\" for many prominent politicians.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://news.bbcimg.co.uk/media/images/74505000/jpg/_74505466_sonia.jpg",
+                    "credit":"BBC",
+                    "caption":"<a href=\"http://www.bbc.com/news/world-asia-india-27216730\">Indian media: Crucial voting phase</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,6",
+                "endDate":"2014,4,6",
+                "headline":"<a href=\"http://time.com/51280/india-kicks-off-worlds-largest-election/\">India Begins World’s Largest Election</a>",
+                "text":"India’s 814 million registered electors are heading to the voting in stages over the next five weeks in the planet’s largest exercise in democracy. The opposition BJP, making promises of economic change, is looking strong in the opinion polls",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://timedotcom.files.wordpress.com/2014/04/india_elections_0407.jpg?w=1100",
+                    "credit":"TIME",
+                    "caption":"<a href=\"http://time.com/51280/india-kicks-off-worlds-largest-election/\">India Begins World’s Largest Election</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.aljazeera.com/news/asia/2014/04/meet-india-biggest-living-election-loser-201443083839581655.html\">Meet India's biggest living election loser</a>",
+                "text":"K Padmarajan, who is contesting against Narendra Modi, has made record 158 abortive attempts to succeed in elections.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.aljazeera.com/mritems/Images/2014/4/30//201443084559743734_20.jpg",
+                    "credit":"aljazeera",
+                    "caption":"<a href=\"http://www.aljazeera.com/news/asia/2014/04/meet-india-biggest-living-election-loser-201443083839581655.html\">Meet India's biggest living election loser</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,27",
+                "endDate":"2014,4,27",
+                "headline":"<a href=\"http://www.aljazeera.com/indepth/features/2014/04/india-elections-fail-inspire-kashmiris-20144276443869365.html\">India elections fail to inspire Kashmiris</a>",
+                "text":"Low voter turnout and boycott mar parliamentary elections in India-administered Kashmir.",
+                "tag":"Kashmir",
+                "asset":
+                {
+                    "media":"http://www.aljazeera.com/mritems/Images/2014/4/27/20144278417975734_20.jpg",
+                    "credit":"aljazeera",
+                    "caption":"<a href=\"http://www.aljazeera.com/indepth/features/2014/04/india-elections-fail-inspire-kashmiris-20144276443869365.html\">India elections fail to inspire Kashmiris</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,6",
+                "endDate":"2014,4,6",
+                "headline":"<a href=\"http://www.aljazeera.com/news/asia/2014/04/villagers-boycott-polls-gandhi-bastion-201446936448254.html\">Villagers to boycott polls in Gandhi bastion</a>",
+                "text":"About two dozen villages in Amethi represented by Congress leader Rahul Gandhi vow not to vote as their demands not met.",
+                "tag":"INC",
+                "asset":
+                {
+                    "media":"http://www.aljazeera.com/mritems/images/2014/4/6//2014461139546734_20.jpg",
+                    "credit":"aljazeera",
+                    "caption":"<a href=\"http://www.aljazeera.com/news/asia/2014/04/villagers-boycott-polls-gandhi-bastion-201446936448254.html\">Villagers to boycott polls in Gandhi bastion</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,8",
+                "endDate":"2014,4,8",
+                "headline":"<a href=\"http://www.aljazeera.com/indepth/features/2014/04/can-india-aap-repeat-success-outside-delhi-20144835719694404.html\">Can India's AAP repeat success outside Delhi?</a>",
+                "text":"Anti-corruption party tries to make inroads into Gurgaon as mainstream parties face scrutiny over past performance.",
+                "tag":"AAP",
+                "asset":
+                {
+                    "media":"http://www.aljazeera.com/mritems/Images/2014/4/8//20144875553334734_20.jpg",
+                    "credit":"aljazeera",
+                    "caption":"<a href=\"http://www.aljazeera.com/indepth/features/2014/04/can-india-aap-repeat-success-outside-delhi-20144835719694404.html\">Can India's AAP repeat success outside Delhi?</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,9",
+                "endDate":"2014,4,9",
+                "headline":"<a href=\"http://www.aljazeera.com/indepth/inpictures/2014/04/pictures-meghalaya-goes-polls-201449111127737903.html\">In Pictures: Meghalaya goes to polls</a>",
+                "text":"People in northeastern Indian state of Meghalaya have voted in the second phase of parliamentary elections along with neighbouring states of Arunachal Pradesh, Manipur and Nagaland.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.aljazeera.com/mritems/images/2014/4/9/201449111047378210_8.jpg",
+                    "credit":"aljazeera",
+                    "caption":"<a href=\"http://www.aljazeera.com/indepth/inpictures/2014/04/pictures-meghalaya-goes-polls-201449111127737903.html\">In Pictures: Meghalaya goes to polls</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.aljazeera.com/indepth/features/2014/04/bjp-chief-riot-guilty-will-be-punished-201443043229123424.html\">BJP chief: Riot guilty will be punished</a>",
+                "text":"Indian opposition leader Rajnath Singh tells Al Jazeera that accused in Muzaffarnagar riots will be brought to book.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.aljazeera.com/mritems/Images/2014/4/30//201443062533194734_20.jpg",
+                    "credit":"aljazeera",
+                    "caption":"<a href=\"http://www.aljazeera.com/indepth/features/2014/04/bjp-chief-riot-guilty-will-be-punished-201443043229123424.html\">BJP chief: Riot guilty will be punished</a>"
                 }
             }
         ]

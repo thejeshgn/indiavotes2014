@@ -4,7 +4,7 @@
     {
         "headline":"India Votes 2014",
         "type":"default",
-		"text":"<b>Lokasabha Elections 2014 - Coverage of the Worlds Biggest Election</b> <br><br>The 2014 general election is taking place in nine phases in India, the longest election in the country's history, from 7 April to 12 May 2014 to constitute the 16th Lok Sabha. Voting will take place in all 543 parliamentary constituencies of India to elect members of parliament in the Lok Sabha. The result of this election will be declared on 16 May, before the 15th Lok Sabha completes its constitutional mandate on 31 May 2014.<br> According to the Election Commission of India, the electoral population in 2014 is 814.5 million, the largest in the world. There is an increase in newly eligible voters of 100 million since the last general election in 2009. This will be the longest and the most expensive general election in the history of the country, with the Election Commission of India estimating that the election will cost the exchequer INR3,500 crore (US$577 million). - <a href='https://en.wikipedia.org/wiki/Indian_general_election,_2014'>Wikipedia</a>. <br><br> Whole world is interested in whats going on in India. This is my attempt to capture the essential good, bad and ugly part of this election. <br>By <a href=\"http://thejeshgn.com\" target='_new' title=\"Thejesh GN Project\">Thejesh GN</a> <br> Report issues or suggestions on <a href='https://github.com/thejeshgn/indiavotes2014/issues' target='_new'>GitHub</a> <div style='background-image: url(unnamed.png); background-repeat:repeat-x; height:200px' ></div>",
+		"text":"<b>Lokasabha Elections 2014 - Coverage of the Worlds Biggest Election</b> <br><br>The 2014 general election is taking place in nine phases in India, the longest election in the country's history (except first election), from 7 April to 12 May 2014 to constitute the 16th Lok Sabha. Voting will take place in all 543 parliamentary constituencies of India to elect members of parliament in the Lok Sabha. The result of this election will be declared on 16 May, before the 15th Lok Sabha completes its constitutional mandate on 31 May 2014.<br> According to the Election Commission of India, the electoral population in 2014 is 814.5 million, the largest in the world. There is an increase in newly eligible voters of 100 million since the last general election in 2009. This will be the longest and the most expensive general election in the history of the country, with the Election Commission of India estimating that the election will cost the exchequer INR3,500 crore (US$577 million). - <a href='https://en.wikipedia.org/wiki/Indian_general_election,_2014'>Wikipedia</a>. <br><br> Whole world is interested in whats going on in India. This is my attempt to capture the essential good, bad and ugly part of this election. <br>By <a href=\"http://thejeshgn.com\" target='_new' title=\"Thejesh GN Project\">Thejesh GN</a> <br> Report issues or suggestions on <a href='https://github.com/thejeshgn/indiavotes2014/issues' target='_new'>GitHub</a> <div style='background-image: url(unnamed.png); background-repeat:repeat-x; height:200px' ></div>",
 		"startDate":"2013,9,1",
         "date": [
             {
@@ -1872,9 +1872,137 @@
                     "credit":"newslaundry",
                     "caption":"<a href=\"http://www.newslaundry.com/2014/03/14/candidates-2014-let-the-gossip-stop/\">CANDIDATES 2014: LET THE GOSSIP STOP</a>"
                 }
+            },
+            {
+                "startDate":"2014,2,5",
+                "endDate":"2014,2,5",
+                "headline":"<a href=\"http://www.thehindu.com/opinion/editorial/third-front-options/article5653613.ece\">Third front options</a>",
+                "text":"Unless the combined tally of the Congress and the BJP falls below 272 seats, which is highly improbable at this point of time, a third front stands no chance of forming a government of its own.",
+                "tag":"Third Front",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/opinion/editorial/third-front-options/article5653613.ece",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/opinion/editorial/third-front-options/article5653613.ece\">Third front options</a>"
+                }
+            },
+            {
+                "startDate":"2013,12,19",
+                "endDate":"2013,12,19",
+                "headline":"<a href=\"http://www.livemint.com/Politics/7kk2GXP8F6o8FJuKY0PBpO/AIADMK-wants-Jayalalithaa-as-prime-minister.html\">AIADMK wants Jayalalithaa as prime minister</a>",
+                "text":"The general council of the All India Anna Dravida Munnetra Kazhagam (AIADMK) said on Thursday that it would like to see party chief and Tamil Nadu chief minister J. Jayalalithaa become the country’s prime minister—a move that effectively rules out an alliance between the party and either of the two main national parties, the Indian National Congress and the Bharatiya Janata Party (BJP).",
+                "tag":"Third Front",
+                "asset":
+                {
+                    "media":"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2013/12/20/Photos/Jaya_0006-kJ0F--621x414@LiveMint.jpg",
+                    "credit":"live mint",
+                    "caption":"<a href=\"http://www.livemint.com/Politics/7kk2GXP8F6o8FJuKY0PBpO/AIADMK-wants-Jayalalithaa-as-prime-minister.html\">AIADMK wants Jayalalithaa as prime minister</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,7",
+                "endDate":"2014,3,7",
+                "headline":"<a href=\"http://indianexpress.com/article/india/politics/blow-to-third-front-as-left-jaya-part-ways/\">Blow to third front as Left, Jayalalithaa part ways</a>",
+                "text":"Cracks surfaced in the ‘alternative front’ of parties with an alliance between two key constituents, the Left Front and Jayalalithaa’s AIADMK, ending in Tamil Nadu after failing to agree on seats. It was the Left that called it off.",
+                "tag":"Third Front",
+                "asset":
+                {
+                    "media":"http://images.indianexpress.com/2014/03/jayalalithaaptim.jpg",
+                    "credit":"Indian Express",
+                    "caption":"<a href=\"http://indianexpress.com/article/india/politics/blow-to-third-front-as-left-jaya-part-ways/\">Blow to third front as Left, Jayalalithaa part ways</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,5",
+                "endDate":"2014,4,5",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/ndtv-opinion-poll-in-odisha-naveen-patnaik-emerges-stronger-504586\">NDTV Opinion Poll: In Odisha, Naveen Patnaik emerges stronger</a>",
+                "text":"NDTV's opinion poll shows a near-dream run for Naveen Patnaik, the Chief Minister of Odisha, in the national election. Mr Patnaik's BJD sweeps the state, winning 18 of the state's 21 seats.",
+                "tag":"Third Front",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/elections/article/election-2014/ndtv-opinion-poll-in-odisha-naveen-patnaik-emerges-stronger-504586",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/ndtv-opinion-poll-in-odisha-naveen-patnaik-emerges-stronger-504586\">NDTV Opinion Poll: In Odisha, Naveen Patnaik emerges stronger</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,6",
+                "endDate":"2014,3,6",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/can-support-jayalalithaa-as-pm-but-not-narendra-modi-mamata-banerjee-492485\">Can support Jayalalithaa as PM, but not Narendra Modi: Mamata Banerjee</a>",
+                "text":"Kolkata: Trinamool Congress chief Mamata Banerjee today indicated that she is open to working with AIADMK chief Jayalalithaa or BSP leader Mayawati in a post poll scenario, but dismissed any possibility of supporting a Narendra Modi-led government.",
+                "tag":"Third Front",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/story_page/mamata_kolkata_AP_360x270.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/can-support-jayalalithaa-as-pm-but-not-narendra-modi-mamata-banerjee-492485\">Can support Jayalalithaa as PM, but not Narendra Modi: Mamata Banerjee</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,21",
+                "endDate":"2014,4,21",
+                "headline":"<a href=\"http://www.hindustantimes.com/elections2014/state-of-the-states/jayalalithaa-demolishes-modi-model/article1-1210715.aspx\">Jayalalithaa demolishes Modi model</a>",
+                "text":"Matching Modi in word play and smart oneliners, Tamil Nadu chief minister and AIADMK supremo J Jayalalithaa on Monday demolished the Gujarat model with facts and asked people to decide between Narendra Modi in Tamil Nadu or Lady in India.",
+                "tag":"Third Front",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/elections2014/state-of-the-states/jayalalithaa-demolishes-modi-model/article1-1210715.aspx",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/elections2014/state-of-the-states/jayalalithaa-demolishes-modi-model/article1-1210715.aspx\">Jayalalithaa demolishes Modi model</a>"
+                }
+            },
+            {
+                "startDate":"2014,5,1",
+                "endDate":"2014,5,1",
+                "headline":"<a href=\"http://www.hindustantimes.com/elections2014/the-big-three/modi-s-poll-day-speech-was-made-outside-restricted-area-say-gujarat-cops/article1-1214473.aspx\">Modi's poll-day speech was made outside restricted area, say Gujarat investigators</a>",
+                "text":"A day after the BJP’s prime ministerial nominee Narendra Modi was booked for making a speech at a polling booth while displaying his party’s election symbol in violation of electoral laws, a preliminary probe by the Gujarat Police has found he addressed the gathering outside the restricted 100-metre radius.",
+                "tag":"BJP, EC",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/elections2014/the-big-three/modi-s-poll-day-speech-was-made-outside-restricted-area-say-gujarat-cops/article1-1214473.aspx",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/elections2014/the-big-three/modi-s-poll-day-speech-was-made-outside-restricted-area-say-gujarat-cops/article1-1214473.aspx\">Modi's poll-day speech was made outside restricted area, say Gujarat investigators</a>"
+                }
+            },
+            {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.ndtv.com/article/blog/chiranjeevi-shook-my-hand-after-i-reprimanded-him-516203?pfrom=home-cheatsheet\">Chiranjeevi shook my hand after I reprimanded him</a>",
+                "text":"He just shook my hand and said \"OK\" and went back in the queue. ",
+                "tag":"INC",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/story_page/raja-karthik-NRI-with-Chiranjeevi-with-caption-360x270.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/article/blog/chiranjeevi-shook-my-hand-after-i-reprimanded-him-516203?pfrom=home-cheatsheet\">Chiranjeevi shook my hand after I reprimanded him</a>"
+                }
+            },
+            {
+                "startDate":"2014,3,10",
+                "endDate":"2014,3,10",
+                "headline":"<a href=\"http://www.hindustantimes.com/elections2014/the-big-story/ht-looks-back-at-62-years-and-15-elections-that-made-indian-democracy-robust/article1-1193327.aspx\">HT looks back at 62 years and 15 elections that made Indian democracy robust</a>",
+                "text":"",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.thinglink.com/scene/498875904164888578",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/elections2014/the-big-story/ht-looks-back-at-62-years-and-15-elections-that-made-indian-democracy-robust/article1-1193327.aspx\">HT looks back at 62 years and 15 elections that made Indian democracy robust</a>"
+                }
+            },
+	    {
+                "startDate":"2014,4,24",
+                "endDate":"2014,4,24",
+                "headline":"<a href=\"http://www.hindustantimes.com/elections2014/election-beat/digital-democracy-who-is-winning-war-for-votes-on-twitter/article1-1211958.aspx\">Digital democracy: who is winning war for votes on Twitter</a>",
+                "text":"The Indian voter is on fire these days, powering the surging turnout in what is being touted as the first truly digital elections of the world’s largest democracy.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"HTTwitterCartoDB.png",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/elections2014/election-beat/digital-democracy-who-is-winning-war-for-votes-on-twitter/article1-1211958.aspx\">Digital democracy: who is winning war for votes on Twitter</a>"
+                }
             }
-
-
         ]
     }
 }

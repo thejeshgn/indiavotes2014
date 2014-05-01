@@ -54,12 +54,12 @@
 	    {
                 "startDate":"2014,4,28",
 		        "endDate":"2014,4,28",
-		        "headline": "On Twitter",
+		        "headline": "@narendramodi on twitter",
 		        "tag":"Kashmir",
                 "asset":
                 {
-                    "media":"http://twitter.com/narendramodi/status/460686582542897152",
-                    "credit":"Twitter"
+                    "media":"460686582542897152.png",
+                    "credit":"<a href='http://twitter.com/narendramodi/status/460686582542897152'>Instead of telling those voting for Modi to drown, Dr. Abdullah should look at himself & his family in the mirror & see how they ruined J&K.</a>"
                 }
             },
 
@@ -793,7 +793,7 @@
 		        "tag":"INC",
                 "asset":
                 {
-                    "media":"https://pbs.twimg.com/media/BlZZHhlCEAAIHC2.jpg",
+                    "media":"BlZZHhlCEAAIHC2.jpg",
                     "credit":"Twitter",
                     "caption":"Twitter @divyaspandana"
                 }
@@ -806,7 +806,7 @@
 		        "tag":"INC",
                 "asset":
                 {
-                    "media":"https://pbs.twimg.com/media/BlZdcLHCUAAttl1.jpg",
+                    "media":"BlZdcLHCUAAttl1.jpg",
                     "credit":"Twitter",
                     "caption":"Twitter @nandannilekani"
                 }
@@ -819,7 +819,7 @@
 		        "tag":"BJP",
                 "asset":
                 {
-                    "media":"https://pbs.twimg.com/media/BlY-IkyCIAA2Z1D.jpg",
+                    "media":"BlY-IkyCIAA2Z1D.jpg",
                     "credit":"Twitter",
                     "caption":"Twitter @BSYBJP"
                 }
@@ -1364,8 +1364,8 @@
                 "tag":"BJP, Wikileaks",
                 "asset":
                 {
-                    "media":"http://twitter.com/wikileaks/statuses/445261567295512576",
-                    "credit":"Twitter"
+                    "media":"445261567295512576.png",
+                    "credit":"http://twitter.com/wikileaks/statuses/445261567295512576"
                 }
             },
             {
@@ -1428,7 +1428,7 @@
                 "tag":"",
                 "asset":
                 {
-                    "media":"https://pbs.twimg.com/media/BmcabpfCEAAGWXQ.jpg",
+                    "media":"BmcabpfCEAAGWXQ.jpg",
                     "credit":"Twitter",
                     "caption":"@narendramodi on twitter"
                 }
@@ -1467,8 +1467,8 @@
                 "tag":"AAP, BJP, INC",
                 "asset":
                 {
-                    "media":"https://twitter.com/VishalDadlani/statuses/427853605089988608",
-                    "credit":"Twitter"
+                    "media":"427853605089988608.png",
+                    "credit":"<a href='https://twitter.com/VishalDadlani/statuses/427853605089988608'>Stuck between a moron and a murderer....what now, India!?</a>"
                 }
             } ,
             {           
@@ -1479,7 +1479,7 @@
                 "tag":"",
                 "asset":
                 {
-                    "media":"https://pbs.twimg.com/media/BmcG5-KCQAAmWZi.jpg",
+                    "media":"BmcG5-KCQAAmWZi.jpg",
                     "credit":"Twitter",
                     "caption":"@ANI_news on twitter"
                 }
@@ -1505,8 +1505,8 @@
                 "tag":"",
                 "asset":
                 {
-                    "media":"http://twitter.com/ANI_news/status/461397922362310656",
-                    "credit":"Twitter"
+                    "media":"461397922362310656.png",
+                    "credit":"<a href='http://twitter.com/ANI_news/status/461397922362310656'>Amartya Sen is working for Naxalites & his Leftist friends : Subramanian Swamy on Sen's comments on Modi</a>"
                 }
             },
             {
@@ -1777,8 +1777,8 @@
                 "tag":"",
                 "asset":
                 {
-                    "media":"http://twitter.com/amrritarai/status/461412628901134336",
-                    "credit":"Twitter",
+                    "media":"461412628901134336.png",
+                    "credit":"<a href='http://twitter.com/amrritarai/status/461412628901134336'>My email/computer been hacked & contents tampered with. It is a serious crime in India & encroachment of my privacy. I strongly condemn it</a>",
                     "caption":""
                 }
             },
@@ -1842,7 +1842,7 @@
                 "tag":"",
                 "asset":
                 {
-                    "media":"https://pbs.twimg.com/media/BmcrwLUCUAEcqsk.jpg",
+                    "media":"BmcrwLUCUAEcqsk.jpg",
                     "credit":"Twitter",
                     "caption":""
                 }
@@ -1855,7 +1855,7 @@
                 "tag":"",
                 "asset":
                 {
-                    "media":"https://pbs.twimg.com/media/Bmb99FACQAAnGiY.jpg",
+                    "media":"Bmb99FACQAAnGiY.jpg",
                     "credit":"Twitter",
                     "caption":""
                 }

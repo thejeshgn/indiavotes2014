@@ -2054,8 +2054,20 @@
                     "credit":"Hindustan Times",
                     "caption":"<a href=\"http://www.hindustantimes.com/elections2014/election-beat/inside-shah-s-social-media-war-room-election-activities-are-monitored/article1-1214249.aspx\">Inside Amit Shah's 'social media war room', election activities are monitored in UP</a>"
                 }
+            },
+	    {
+                "startDate":"2014,4,23",
+                "endDate":"2014,4,23",
+                "headline":"<a href=\"http://online.wsj.com/news/articles/SB10001424052702303626804579505710305318136?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303626804579505710305318136.html\">In India, Election Officials Brave Hungry Crocodiles to Reach Voters</a>",
+                "text":"Government Goes to Extraordinary Lengths in Largely Rural and Infrastructure-Challenged Country",
+                "tag":"EC",
+                "asset":
+                {
+                    "media":"http://si.wsj.net/public/resources/images/BN-CM651_0423iv_M_20140423155858.jpg",
+                    "credit":"WSJ",
+                    "caption":"<a href=\"http://online.wsj.com/news/articles/SB10001424052702303626804579505710305318136?mg=reno64-wsj&url=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702303626804579505710305318136.html\">In India, Election Officials Brave Hungry Crocodiles to Reach Voters</a>"
+                }
             }
-
 
         ]
     }

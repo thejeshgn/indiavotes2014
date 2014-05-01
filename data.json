@@ -2002,7 +2002,61 @@
                     "credit":"Hindustan Times",
                     "caption":"<a href=\"http://www.hindustantimes.com/elections2014/election-beat/digital-democracy-who-is-winning-war-for-votes-on-twitter/article1-1211958.aspx\">Digital democracy: who is winning war for votes on Twitter</a>"
                 }
+            },
+	    {
+                "startDate":"2014,5,1",
+                "endDate":"2014,5,1",
+                "headline":"<a href=\"http://www.ndtv.com/elections/article/election-2014/narendra-modi-blames-congress-after-first-ever-fir-against-him-516692?pfrom=home-lateststories\">Narendra Modi Blames Congress After 'First Ever FIR' Against Him</a>",
+                "text":"Tirupati: Narendra Modi has said he will not forget April 30, 2014, the day an FIR or first information report was lodged against him, the first ever.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.ndtv.com/news/images/story_page/Narendra_Modi_360_addresses_media_PTI.jpg",
+                    "credit":"NDTV",
+                    "caption":"<a href=\"http://www.ndtv.com/elections/article/election-2014/narendra-modi-blames-congress-after-first-ever-fir-against-him-516692?pfrom=home-lateststories\">Narendra Modi Blames Congress After 'First Ever FIR' Against Him</a>"
+                }
+            },
+	    {
+                "startDate":"2014,4,29",
+                "endDate":"2014,4,29",
+                "headline":"<a href=\"http://www.hindustantimes.com/india-news/ranchi/bjp-leader-gangraped-in-ranchi-village-alleges-political-motive/article1-1213737.aspx\">BJP leader ‘gangraped’ in Ranchi village</a>",
+                "text":"A senior office-bearer of the Jharkhand BJP's minority wing has alleged in an FIR that she was told to stop working with the saffron party by regional political forces before being raped by seven men on Monday.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/india-news/ranchi/bjp-leader-gangraped-in-ranchi-village-alleges-political-motive/article1-1213737.aspx",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/india-news/ranchi/bjp-leader-gangraped-in-ranchi-village-alleges-political-motive/article1-1213737.aspx\">BJP leader ‘gangraped’ in Ranchi village</a>"
+                }
+            },
+	    {
+                "startDate":"2014,5,1",
+                "endDate":"2014,5,1",
+                "headline":"<a href=\"http://www.hindustantimes.com/india-news/bhu-professor-arrested-for-instigating-attack-on-somnath-bharti/article1-1214487.aspx\">BHU prof arrested for instigating attack on AAP's Somnath Bharti</a>",
+                "text":"A professor of the Banaras Hindu University was arrested on Thursday for allegedly instigating BJP workers to attack Aam Aadmi Party leader Somnath Bharti at Assi Ghat in Varanasi last week.",
+                "tag":"AAP, BJP",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/india-news/bhu-professor-arrested-for-instigating-attack-on-somnath-bharti/article1-1214487.aspx",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/india-news/bhu-professor-arrested-for-instigating-attack-on-somnath-bharti/article1-1214487.aspx\">BHU prof arrested for instigating attack on AAP's Somnath Bharti</a>"
+                }
+            },
+	    {
+                "startDate":"2014,5,1",
+                "endDate":"2014,5,1",
+                "headline":"<a href=\"http://www.hindustantimes.com/elections2014/election-beat/inside-shah-s-social-media-war-room-election-activities-are-monitored/article1-1214249.aspx\">Inside Amit Shah's 'social media war room', election activities are monitored in UP</a>",
+                "text":"Welcome to the ‘social media war room’ of BJP on the first floor of the party’s state unit headquarters in Lucknow’s Lalbagh. From this place, apart from monitoring Twitter, Facebook and a constant flow of news, a team tracks the smallest of households the BJP has touched, ground challenges, profile and leanings of each voter, resources needed to win in a booth or constituency, and much more. It is an unprecedented deployment of smart youngsters and technology to control every inch of BJP’s crucial battlefields, UP and cyberspace.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.hindustantimes.com/images/2014/5/4012e231-46d1-4a1b-9db7-015c1f29490cwallpaper1.jpg",
+                    "credit":"Hindustan Times",
+                    "caption":"<a href=\"http://www.hindustantimes.com/elections2014/election-beat/inside-shah-s-social-media-war-room-election-activities-are-monitored/article1-1214249.aspx\">Inside Amit Shah's 'social media war room', election activities are monitored in UP</a>"
+                }
             }
+
+
         ]
     }
 }

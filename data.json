@@ -2080,7 +2080,87 @@
                     "credit":"Deccan Herald",
                     "caption":"<a href=\"http://www.deccanherald.com/content/402979/records-poll-code-violation-gutted.html\">Records of poll code violation gutted in fire: RTI query</a>"
                 }
+            },
+	    {
+                "startDate":"2014,5,2",
+                "endDate":"2014,5,2",
+                "headline":"<a href=\"http://www.thehindu.com/elections/loksabha2014/modi-vs-all-shows-up-insecurities-of-rival-camp-amit-shah/article5966998.ece?homepage=true\">‘Modi vs. all’ shows up insecurities of rival camp: Amit Shah</a>",
+                "text":"On Wednesday, as the seventh phase of polling was under way, Amit Shah, closest confidant of the Bharatiya Janata Party’s prime ministerial candidate, Narendra Modi, and party general secretary, seemed relaxed and hopeful. He had just cast his vote and was watching television with his wife, Sonal, and son, Jayant, at home in a quiet neighbourhood of Ahmedabad. Mr. Shah opened up to Poornima Joshi on the sudden bitterness in the election campaign, the prospects of finding future allies for the BJP in such an atmosphere and his relationship with party president Rajnath Singh.",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01872/TH02_AMIT_SHAH2_1872309f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/elections/loksabha2014/modi-vs-all-shows-up-insecurities-of-rival-camp-amit-shah/article5966998.ece?homepage=true\">‘Modi vs. all’ shows up insecurities of rival camp: Amit Shah</a>"
+                }
+            },
+	    {
+                "startDate":"2014,4,27",
+                "endDate":"2014,4,27",
+                "headline":"John Oliver On Indian Elections 2014 - Narendra Modi Vs. Rahul Gandhi",
+                "text":"",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=aZDYsSOngik",
+                    "credit":"John Olive",
+                    "caption":""
+                }
+            },
+	    {
+                "startDate":"2014,5,2",
+                "endDate":"2014,5,2",
+                "headline":"<a href=\"http://www.scroll.in/article/663345\">Why did the EC set up an entire polling booth just for this man?</a>",
+                "text":"Bharatdas Darshandas lives in solitary splendor in an ashram in Banej, 20 km deep in Gujarat’s Gir forest. On Wednesday, a clutch of five Election Commission officials and a policeman gathered at a watchpost deep in the jungle to transform it into a polling booth solely to cater to the 65-year-old priest. ",
+                "tag":"EC",
+                "asset":
+                {
+                    "media":"https://d1u4oo4rb13yy8.cloudfront.net/58bd6e35-1948-4e72-8afb-d6efa891f4a3.jpg",
+                    "credit":"Scroll",
+                    "caption":"<a href=\"http://www.scroll.in/article/663345\">Why did the EC set up an entire polling booth just for this man?</a>"
+                }
+            },
+	    {
+                "startDate":"2014,5,1",
+                "endDate":"2014,5,1",
+                "headline":"<a href=\"http://www.scroll.in/article/663284\">What's the only question worth asking about Digvijaya Singh and Amrita Rai?</a>",
+                "text":"Who hacked her computer and leaked her private messages to the world?",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://d1u4oo4rb13yy8.cloudfront.net/a7b26337-47ee-4329-aa53-7c4c37558a33.jpg",
+                    "credit":"Scroll",
+                    "caption":"<a href=\"http://www.scroll.in/article/663284\">What's the only question worth asking about Digvijaya Singh and Amrita Rai?</a>"
+                }
+            },
+
+        {
+                "startDate":"2014,4,30",
+                "endDate":"2014,4,30",
+                "headline":"<a href=\"http://www.newslaundry.com/2014/04/30/the-article-vanishes/\">THE ARTICLE VANISHES</a>",
+                "text":"On April 29, one of the most widely shared news on the Indian Internet scene – pictures of Digvijay Singh romancing a journalist notwithstanding of course – was an article on DNA titled “Mamata Banerjee calls Narendra Modi ‘butcher of Gujarat’; here are 9 myth busters on 2002 post-Godhra riots”. The article, according to the author, “proud Congress supporter” Shehzad Poonawalla, was essentially a nine-point listicle “busting nine myths” about Gujarat “perpetrated by Narendra Modi’s PR machinery”.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.newslaundry.com/wp-content/uploads/2014/04/modi-aricle-img.jpg",
+                    "credit":"newslaundry",
+                    "caption":"<a href=\"http://www.newslaundry.com/2014/04/30/the-article-vanishes/\">THE ARTICLE VANISHES</a>"
+                }
+            },
+        {
+                "startDate":"2014,4,29",
+                "endDate":"2014,4,29",
+                "headline":"<a href='http://web.archive.org/web/20140429220211/http://www.dnaindia.com/analysis/standpoint-mamata-banerjee-calls-narendra-modi-butcher-of-gujarat-here-are-9-mythbusters-on-2002-post-godhra-riots-1983270'>The article on Modi and Gujrat riots which went missing from DNA exists on Archive.org</a>",
+                "text":"On April 29, one of the most widely shared news on the Indian Internet scene – pictures of Digvijay Singh romancing a journalist notwithstanding of course – was an article on DNA titled “Mamata Banerjee calls Narendra Modi ‘butcher of Gujarat’; here are 9 myth busters on 2002 post-Godhra riots”. The article, according to the author, “proud Congress supporter” Shehzad Poonawalla, was essentially a nine-point listicle “busting nine myths” about Gujarat “perpetrated by Narendra Modi’s PR machinery”.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.dnaindia.com/analysis/standpoint-mamata-banerjee-calls-narendra-modi-butcher-of-gujarat-here-are-9-mythbusters-on-2002-post-godhra-riots-1983270",
+                    "credit":"Archive.ORG",
+                    "caption":"<a href='http://web.archive.org/web/20140429220211/http://www.dnaindia.com/analysis/standpoint-mamata-banerjee-calls-narendra-modi-butcher-of-gujarat-here-are-9-mythbusters-on-2002-post-godhra-riots-1983270'>The article on Modi and Gujrat riots which went missing from DNA exists on Archive.org</a>"
+                }
             }
+
         ]
     }
 }

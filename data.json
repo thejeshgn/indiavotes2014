@@ -2172,8 +2172,20 @@
                     "credit":"Zee News",
                     "caption":"<a href=\"http://zeenews.india.com/news/general-elections-2014/amit-shah-terms-azamgarh-base-of-terrorists_929665.html\">Amit Shah terms Azamgarh 'base of terrorists'</a>"
                 }
+            },
+        {
+                "startDate":"2014,4,29",
+                "endDate":"2014,4,29",
+                "headline":"<a href=\"http://sunlightfoundation.com/blog/2014/04/29/complete-financial-opacity-in-record-breaking-indian-elections/\">Complete financial opacity in record-breaking Indian elections</a>",
+                "text":" A total of around $5 billion is spent by Indian politicians on the 2014 elections in complete financial opacity",
+                "tag":"",
+                "asset":
+                {
+                    "media":"https://horseradish.s3.amazonaws.com/CACHE/images/photos/14/65/b0fe74634f71/India-elections-800.jpg",
+                    "credit":"Sunlight Foundation,  Photo credit: Al Jazeera English via Wikimedia Commons and Flickr",
+                    "caption":"<a href=\"http://sunlightfoundation.com/blog/2014/04/29/complete-financial-opacity-in-record-breaking-indian-elections/\">Complete financial opacity in record-breaking Indian elections</a>"
+                }
             }
-
 
 
         ]

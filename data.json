@@ -2276,8 +2276,85 @@
                     "credit":"Times of India",
                     "caption":"<a href=\"http://epaper.timesofindia.com/Default/Scripting/ArticleWin.asp?From=Archive&Source=Page&Skin=pastissues2&BaseHref=ETD/2014/03/14&PageLabel=4&ForceGif=true&EntityId=Ar00401&ViewMode=HTML\">Markets and Polls</a>"
                 }
+            },
+        {
+                "startDate":"2014,4,3",
+                "endDate":"2014,4,3",
+                "headline":"<a href=\"http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/bonded-labourers-of-athani-to-boycott-polls/article5865378.ece\">‘Bonded labourers’ of Athani to boycott polls</a>",
+                "text":"At least 21 of the nearly 250 labourers who were in allegedly in bonded conditions in Athani taluk, have decided to boycott polling in protest against the failure of the State government, particularly the district administration, to issue them letters of freedom.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/bonded-labourers-of-athani-to-boycott-polls/article5865378.ece",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/todays-paper/tp-national/tp-karnataka/bonded-labourers-of-athani-to-boycott-polls/article5865378.ece\">‘Bonded labourers’ of Athani to boycott polls</a>"
+                }
+            },
+        {
+                "startDate":"2014,3,28",
+                "endDate":"2014,3,28",
+                "headline":"<a href=\"http://www.boell.de/en/2014/03/26/indian-middle-classes-democracy-and-electoral-politics#2\">Indian Middle Classes, Democracy and Electoral Politics</a>",
+                "text":"Indian \"middle classes\" had for long been spectators in electoral politics. However, as the country prepares for the 16th general elections, this time around, they seem to be audible and visible everywhere: on television screens, and in newspapers reports; as the angry aam aadmi or ordinary citizen, protesting on the urban streets; as the catalyst that propelled a new party, the Aam Aadmi Party (the Common Man’s Party, hereafter referred as AAP) to visibility and power in Delhi’s Assembly Election.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.boell.de/sites/default/files/styles/630x420/public/uploads/2014/03/indiens-mittelschicht.jpg?itok=ZqWXwReb",
+                    "credit":"boell.de",
+                    "caption":"<a href=\"http://www.boell.de/en/2014/03/26/indian-middle-classes-democracy-and-electoral-politics#2\">Indian Middle Classes, Democracy and Electoral Politics</a>"
+                }
+            },
+        {
+                "startDate":"2014,4,17",
+                "endDate":"2014,4,17",
+                "headline":"<a href=\"http://www.deccanchronicle.com/140417/nation-politics/article/cash-votes-steel-tiffin-boxes\">Cash for votes via steel tiffin boxes</a>",
+                "text":"Indian \"middle classes\" had for long been spectators in electoral politics. However, as the country prepares for the 16th general elections, this time around, they seem to be audible and visible everywhere: on television screens, and in newspapers reports; as the angry aam aadmi or ordinary citizen, protesting on the urban streets; as the catalyst that propelled a new party, the Aam Aadmi Party (the Common Man’s Party, hereafter referred as AAP) to visibility and power in Delhi’s Assembly Election.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://dd508hmafkqws.cloudfront.net/sites/default/files/styles/article_node_view/public/Cash_for_vote_Tamil_Nadu.jpg",
+                    "credit":"Deccan Chronicle",
+                    "caption":"<a href=\"http://www.deccanchronicle.com/140417/nation-politics/article/cash-votes-steel-tiffin-boxes\">Cash for votes via steel tiffin boxes</a>"
+                }
+            },            
+        {
+                "startDate":"2014,4,17",
+                "endDate":"2014,4,17",
+                "headline":"<a href=\"http://www.deccanchronicle.com/140417/nation-politics/article/cash-votes-steel-tiffin-boxes\">Cash for votes via steel tiffin boxes</a>",
+                "text":" The AIADMK on Wednesday lodged a complaint with the returning officer alleging that the rival DMK functionaries were distributing stainless steel tiffin-boxes with currency notes inside them to the voters of Central Chennai. High-profile former Union minister Dayanidhi Maran is the DMK candidate in this constituency.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://dd508hmafkqws.cloudfront.net/sites/default/files/styles/article_node_view/public/Cash_for_vote_Tamil_Nadu.jpg",
+                    "credit":"Deccan Chronicle",
+                    "caption":"<a href=\"http://www.deccanchronicle.com/140417/nation-politics/article/cash-votes-steel-tiffin-boxes\">Cash for votes via steel tiffin boxes</a>"
+                }
+            },
+        {
+                "startDate":"2014,5,4",
+                "endDate":"2014,5,4",
+                "headline":"<a href=\"http://www.economist.com/blogs/banyan/2014/05/campaign-finance-india?fsrc=rss\">Black money power</a>",
+                "text":"WITH seven of nine phases of voting finished, there is still argument about the “Modi wave” that looks likely to bring Narendra Modi of the opposition Bharatiya Janata Party (BJP) surging to victory. Is it in fact a tsunami, to sweep away the Congress party and its allies—or something less than a ripple, as a Congressman claims hopefully? Landfall is due May 16th, when the results are tallied.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://cdn.static-economist.com/sites/default/files/imagecache/full-width/images/2014/05/blogs/banyan/500_india_rupee_notes_595.jpg",
+                    "credit":"Economist",
+                    "caption":"<a href=\"http://www.economist.com/blogs/banyan/2014/05/campaign-finance-india?fsrc=rss\">Black money power</a>"
+                }
+            },
+        {
+                "startDate":"2014,5,6",
+                "endDate":"2014,5,6",
+                "headline":"<a href=\"http://timesofindia.indiatimes.com/Home/Lok-Sabha-Elections-2014/News/Police-asks-Kumar-Vishwass-wife-family-members-to-leave-Amethi-claims-AAP/articleshow/34703263.cms\">Police asks Kumar Vishwas's wife, family members to leave Amethi, claims AAP</a>",
+                "text":"A posse of police swooped on party candidate Kumar Vishwas's house late on Monday night, asking all family members who are not voters of Amethi to leave or else they will be arrested. ",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://timesofindia.indiatimes.com/Home/Lok-Sabha-Elections-2014/News/Police-asks-Kumar-Vishwass-wife-family-members-to-leave-Amethi-claims-AAP/articleshow/34703263.cms",
+                    "credit":"Times of India",
+                    "caption":"<a href=\"http://timesofindia.indiatimes.com/Home/Lok-Sabha-Elections-2014/News/Police-asks-Kumar-Vishwass-wife-family-members-to-leave-Amethi-claims-AAP/articleshow/34703263.cms\">Police asks Kumar Vishwas's wife, family members to leave Amethi, claims AAP</a>"
+                }
             }
-
         ]
     }
 }

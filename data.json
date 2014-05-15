@@ -2588,7 +2588,62 @@
                     "credit":"NDTV",
                     "caption":"<a href=\"http://www.ndtv.com/elections/article/cheat-sheet/last-round-of-voting-today-in-lok-sabha-polls-varanasi-the-centre-of-action-522578\">Last Round of Voting Today in Lok Sabha Polls, Varanasi the Centre of Action</a>"
                 }
+            },
+        {
+                "startDate":"2014,5,12,18,0,0",
+                "endDate":"2014,5,12,18,0,0",
+                "headline":"<a href=\"http://www.thehindu.com/elections/loksabha2014/north/fir-filed-against-ajay-rai/article6001110.ece\">FIR filed against Ajay Rai</a>",
+                "text":"The Congress nominee allegedly violated the poll code by wearing the party symbol on his kurta while going to cast his vote in Varanasi",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01889/12_rai_1889423f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/elections/loksabha2014/north/fir-filed-against-ajay-rai/article6001110.ece\">FIR filed against Ajay Rai</a>"
+                }
+            },
+        {
+                "startDate":"2014,5,10,20,0,0",
+                "endDate":"2014,5,10,20,0,0",
+                "headline":"<a href=\"http://www.thehindu.com/news/national/ec-absolves-rahul-of-code-violation-in-amethi/article5996467.ece\">EC absolves Rahul of code violation in Amethi</a>",
+                "text":"The Election Commission on Saturday gave a clean chit to Congress vice president Rahul Gandhi on the charges that he had violated the poll code by entering a polling booth in Amethi when voting was in progress on May 7.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01887/rahul_amethi_1887227f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/news/national/ec-absolves-rahul-of-code-violation-in-amethi/article5996467.ece\">EC absolves Rahul of code violation in Amethi</a>"
+                }
+            },
+        {
+                "startDate":"2014,5,9,2,0,0",
+                "endDate":"2014,5,9,2,0,0",
+                "headline":"<a href=\"http://www.thehindu.com/elections/loksabha2014/north/ec-seeks-report-on-rahul-entering-amethi-polling-booths/article5989613.ece\">EC seeks report on Rahul entering Amethi polling booths</a>",
+                "text":"The Election Commission has said that it has sought a report on the photographs in the media showing Congress vice-president Rahul Gandhi entering a polling booth in Amethi during polling hours.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01883/rahul_1883783f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/elections/loksabha2014/north/ec-seeks-report-on-rahul-entering-amethi-polling-booths/article5989613.ece\">EC seeks report on Rahul entering Amethi polling booths</a>"
+                }
+            },
+        {
+                "startDate":"2014,5,7,16,0,0",
+                "endDate":"2014,5,7,16,0,0",
+                "headline":"<a href=\"http://www.dnaindia.com/india/report-what-is-rahul-gandhi-doing-at-a-polling-booth-on-election-day-ask-aap-and-bjp-supporters-1986010\">What is Rahul Gandhi doing at a polling booth on election day? ask AAP and BJP supporters</a>",
+                "text":"Circulating images of Rahul Gandhi interacting with voters at polling booths here Wednesday while polling was on for the Amethi Lok Sabha seat, both the BJP and the AAP alleged that the Congress is trying to influence voters on election day.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://static.dnaindia.com/sites/default/files/2014/05/07/234241-rahulbooth.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.dnaindia.com/india/report-what-is-rahul-gandhi-doing-at-a-polling-booth-on-election-day-ask-aap-and-bjp-supporters-1986010\">What is Rahul Gandhi doing at a polling booth on election day? ask AAP and BJP supporters</a>"
+                }
             }
+
+
+
         ]
     }
 }

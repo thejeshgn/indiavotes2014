@@ -2473,16 +2473,16 @@
                 }
             },
         {
-                "startDate":"2014,5,15",
-                "endDate":"2014,5,15",
-                "headline":"<a href=\"http://scroll.in/article/664475\">'Modi's Plan A will be economy. If that does not work, Hindutva'</a>",
-                "text":"The BJP has been more democratic than the Congress. But with Modi, a parallel power structure may come up, says French political scientist Christophe Jaffrelot.",
+                "startDate":"2014,5,12",
+                "endDate":"2014,5,12",
+                "headline":"<a href=\"http://www.newstatesman.com/politics/2014/05/narendra-modi-man-masses\">Narendra Modi: man of the masses</a>",
+                "text":"Modi, implicated in a massacre in 2002 while chief minister of Gujarat, is poised to become India’s next prime minister. Is he a dangerous neo-fascist, as some say, or the strongman reformer that this country of 1.2 billion people craves?",
                 "tag":"",
                 "asset":
                 {
-                    "media":"https://d1u4oo4rb13yy8.cloudfront.net/ba0b17aa-c9ed-4cbf-85b5-c939240ba559.jpg",
-                    "credit":"Scroll.in",
-                    "caption":"<a href=\"http://scroll.in/article/664475\">'Modi's Plan A will be economy. If that does not work, Hindutva'</a>"
+                    "media":"http://www.newstatesman.com/sites/default/files/images/2014%2B18india%20streets.jpg",
+                    "credit":"New Statesman",
+                    "caption":"<a href=\"http://www.newstatesman.com/politics/2014/05/narendra-modi-man-masses\">Narendra Modi: man of the masses</a>"
                 }
             },
         {
@@ -2637,7 +2637,7 @@
                 "asset":
                 {
                     "media":"http://static.dnaindia.com/sites/default/files/2014/05/07/234241-rahulbooth.jpg",
-                    "credit":"The Hindu",
+                    "credit":"DNA India",
                     "caption":"<a href=\"http://www.dnaindia.com/india/report-what-is-rahul-gandhi-doing-at-a-polling-booth-on-election-day-ask-aap-and-bjp-supporters-1986010\">What is Rahul Gandhi doing at a polling booth on election day? ask AAP and BJP supporters</a>"
                 }
             }

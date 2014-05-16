@@ -2640,9 +2640,46 @@
                     "credit":"DNA India",
                     "caption":"<a href=\"http://www.dnaindia.com/india/report-what-is-rahul-gandhi-doing-at-a-polling-booth-on-election-day-ask-aap-and-bjp-supporters-1986010\">What is Rahul Gandhi doing at a polling booth on election day? ask AAP and BJP supporters</a>"
                 }
+            },
+        {
+                "startDate":"2014,5,9,8,21,0",
+                "endDate":"2014,5,9,8,21,0",
+                "headline":"<a href=\"https://twitter.com/Swamy39/status/464598579433447424\">@Swamy39 on twitter</a>",
+                "text":"With the authority vested in me I hereby appoint Namo as  a Brahmin since he has Brahminical gunas.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"464598579433447424.png",
+                    "credit":"Twitter",
+                    "caption":"<a href=\"https://twitter.com/Swamy39/status/464598579433447424\">@Swamy39 on twitter</a>"
+                }
+            },
+        {
+                "startDate":"2014,5,16,11,21,0",
+                "endDate":"2014,5,16,11,21,0",
+                "headline":"<a href=\"https://twitter.com/Swamy39/status/467180640983478272\">@Swamy39 on twitter</a>",
+                "text":"It seems EVM rigging is a complete washout. BJP will achieve my original tweeted estimate of 280 seats and NDA at 320.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"467180640983478272.png",
+                    "credit":"Twitter",
+                    "caption":"<a href=\"https://twitter.com/Swamy39/status/467180640983478272\">@Swamy39 on twitter</a>"
+                }
+            },
+            {
+                "startDate":"2014,5,15,19,15,0",
+                "endDate":"2014,5,15,19,15,0",
+                "headline":"<a href=\"https://twitter.com/PMOIndia/status/466937377017958405\">@PMOIndia on twitter</a>",
+                "text":"PM Dr Singh and Shrimati Gursharan Kaur bid farewell to their personal staff at 7 RCR - \"Thank you all. God Bless.\" pic.twitter.com/hJSmmf9u96",
+                "tag":"",
+                "asset":
+                {
+                    "media":"BnrlEf9CQAAe1DK.jpg",
+                    "credit":"Twitter",
+                    "caption":"<a href=\"https://twitter.com/PMOIndia/status/466937377017958405\">@PMOIndia on twitter</a>"
+                }
             }
-
-
 
         ]
     }

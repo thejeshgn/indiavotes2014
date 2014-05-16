@@ -2679,6 +2679,32 @@
                     "credit":"Twitter",
                     "caption":"<a href=\"https://twitter.com/PMOIndia/status/466937377017958405\">@PMOIndia on twitter</a>"
                 }
+            },
+            {
+                "startDate":"2014,5,16,13,56,0",
+                "endDate":"2014,5,16,13,56,0",
+                "headline":"<a href=\"http://www.livemint.com/Politics/FPXAt2uVAoxRRuURs18t3J/Before-election-results-Nandan-Nilekani-concedes-defeat-in.html\">Nandan Nilekani concedes defeat in Bangalore South</a>",
+                "text":"Bangalore: Infosys Inc. co-founder and Congress candidate from Bangalore South Nandan Nilekani has conceded defeat to his formidable rival BJP’s Ananth Kumar even as counting of votes for Lok Sabha elections progressed.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2014/05/17/Photos/nilekani--621x414--621x414.jpg",
+                    "credit":"livemint",
+                    "caption":"<a href=\"http://www.livemint.com/Politics/FPXAt2uVAoxRRuURs18t3J/Before-election-results-Nandan-Nilekani-concedes-defeat-in.html\">Nandan Nilekani concedes defeat in Bangalore South</a>"
+                }
+            },
+            {
+                "startDate":"2014,5,16,11,0,0",
+                "endDate":"2014,5,16,11,0,0",
+                "headline":"<a href=\"http://www.livemint.com/Politics/vGyzihxgQEuYmzRmyRA1vN/Election-results-2014-Counting-begins-as-Narendra-Modi-eyes.html\">BJP heads for simple majority in 2014 Lok Sabha elections</a>",
+                "text":"BJP’s tally is the highest number of seats won by any party on its own since the 1984 Lok Sabha elections, when the Congress, led by then prime minister Rajiv Gandhi won a landslide victory.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.livemint.com/rf/Image-621x414/LiveMint/Period1/2014/05/17/Photos/liveresults_web--621x414.jpg",
+                    "credit":"livemint",
+                    "caption":"<a href=\"http://www.livemint.com/Politics/vGyzihxgQEuYmzRmyRA1vN/Election-results-2014-Counting-begins-as-Narendra-Modi-eyes.html\">BJP heads for simple majority in 2014 Lok Sabha elections</a>"
+                }
             }
 
         ]

@@ -2705,8 +2705,35 @@
                     "credit":"livemint",
                     "caption":"<a href=\"http://www.livemint.com/Politics/vGyzihxgQEuYmzRmyRA1vN/Election-results-2014-Counting-begins-as-Narendra-Modi-eyes.html\">BJP heads for simple majority in 2014 Lok Sabha elections</a>"
                 }
+            },           
+            {
+                "startDate":"2014,5,16,12,15,0",
+                "endDate":"2014,5,16,12,15,0",
+                "headline":"<a href=\"https://twitter.com/narendramodi/status/467192528878329856\">@narendramodi on twitter</a>",
+                "text":"India has won! भारत की विजय। अच्छे दिन आने वाले हैं।",
+                "tag":"",
+                "asset":
+                {
+                    "media":"467192528878329856.png",
+                    "credit":"Twitter",
+                    "caption":"<a href=\"https://twitter.com/narendramodi/status/467192528878329856\">@narendramodi on twitter</a>"
+                }
+            },
+            {
+                "startDate":"2014,5,16,17,59,0",
+                "endDate":"2014,5,16,17,59,0",
+                "headline":"<a href=\"http://www.thehindu.com/elections/infographic-lok-sabha-2014-partywise-vote-share/article6015559.ece\">Infographic: Lok Sabha 2014 - Party-wise vote share</a>",
+                "text":"BJP’s tally is the highest number of seats won by any party on its own since the 1984 Lok Sabha elections, when the Congress, led by then prime minister Rajiv Gandhi won a landslide victory.",
+                "tag":"",
+                "asset":
+                {
+                    "media":"http://www.thehindu.com/multimedia/dynamic/01897/voteshare_1897289f.jpg",
+                    "credit":"The Hindu",
+                    "caption":"<a href=\"http://www.thehindu.com/elections/infographic-lok-sabha-2014-partywise-vote-share/article6015559.ece\">Infographic: Lok Sabha 2014 - Party-wise vote share</a>"
+                }
             }
 
+            
         ]
     }
 }

@@ -2731,9 +2731,21 @@
                     "credit":"The Hindu",
                     "caption":"<a href=\"http://www.thehindu.com/elections/infographic-lok-sabha-2014-partywise-vote-share/article6015559.ece\">Infographic: Lok Sabha 2014 - Party-wise vote share</a>"
                 }
+            },
+        {
+                "startDate":"2014,5,8",
+                "endDate":"2014,5,8",
+                "headline":"Frankly Speaking - Narendra Modi",
+                "text":"The Narendra Modi Interview on Times Now",
+                "tag":"BJP",
+                "asset":
+                {
+                    "media":"https://www.youtube.com/watch?v=JIjMGNwStt0",
+                    "credit":"Times Now",
+                    "caption":"Frankly Speaking - Narendra Modi"
+                }
             }
 
-            
         ]
     }
 }
